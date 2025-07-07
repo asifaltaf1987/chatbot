@@ -1,0 +1,32 @@
+[AVATARS]
+user = "./static/user_icon.png"
+assistant = "./static/avatar.png"
+
+[ROLES]
+user = "user"
+assistant = "assistant"
+
+[main]
+title = "Laira"
+logo = "![Laira](./static/avatar.png)"
+
+[side]
+title = "[![RCSI Library](./static/rcsi_logo.png)](https://www.rcsi.com/bahrain/library)"
+intro = "Laira is a library chatbot developed by the RCSI Bahrain Library. It provides basic information about the library and resources. Not a substitute for librarian advice."
+policylink = "https://www.rcsi.com/bahrain/library"
+policylabel = "Library Homepage"
+
+[button1]
+label = "Library Hours"
+content = "What are RCSI library hours?"
+chip = "SC: Hours"
+
+[button2]
+label = "Start Research"
+content = "How do I start my research?"
+chip = "SC: ResearchStart"
+
+[button3]
+label = "Book a Room"
+content = "How do I book a study room at RCSI Library?"
+chip = "SC: BookRoom"
