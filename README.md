@@ -1,5 +1,5 @@
 # Laira  
-[Laira] is the official AI-powered chatbot developed by the Library of RCSI Medical University of Bahrain. Laira assists users by answering questions about the library's services, tools, and access points. It uses a retrieval-augmented generation (RAG) architecture and responds based on library-curated FAQs and verified website content.
+Laira is the AI-powered chatbot developed by the Library of RCSI Medical University of Bahrain. Laira assists users by answering questions about the library's services, tools, and access points. It uses a retrieval-augmented generation (RAG) architecture and responds based on library-curated FAQs and verified website content.
 
 ## Architecture
 
