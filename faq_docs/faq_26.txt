@@ -1,0 +1,2 @@
+Q: How do I assess study quality in Covidence?
+A: Use built-in or customized Quality Assessment templates, such as Cochrane Risk of Bias, after full-text review.

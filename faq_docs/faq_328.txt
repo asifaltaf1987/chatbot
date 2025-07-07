@@ -1,0 +1,2 @@
+Q: Can I store my EndNote library on a cloud drive?
+A: No, do not store your EndNote library on OneDrive, Dropbox, or any network/cloud drive as it may corrupt the files.

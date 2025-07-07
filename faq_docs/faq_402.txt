@@ -1,0 +1,2 @@
+Q: How do I save searches in PubMed?
+A: Sign in to My NCBI, run your search in PubMed, and click "Save Search" to create alerts.

@@ -1,0 +1,2 @@
+Q: How do I start a new review in Covidence?
+A: After signing in, click "Create new review" on the home page, select RCSI Bahrain as your organization, and input your review details.

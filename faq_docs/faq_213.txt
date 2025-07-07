@@ -1,0 +1,2 @@
+Q: What are the benefits of linking ORCID with Publons?
+A: Linking ORCID and Publons enables automatic syncing of publications and verified peer review records, enhancing your research visibility.

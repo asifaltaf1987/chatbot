@@ -1,0 +1,2 @@
+Q: How do I add reviewers to a Covidence project?
+A: Add reviewers via the Settings menu using their name and email; they must accept the invitation via email to join.

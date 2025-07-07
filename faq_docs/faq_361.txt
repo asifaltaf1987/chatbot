@@ -1,0 +1,2 @@
+Q: How can I import references from Google Scholar?
+A: Enable the "Import into EndNote" setting under Google Scholar’s Settings → Bibliography Manager, then click the link under a citation to download a .enw file.

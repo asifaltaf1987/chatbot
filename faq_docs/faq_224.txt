@@ -1,0 +1,2 @@
+Q: What is the i10-index?
+A: Used only by Google Scholar, it counts the number of publications with at least 10 citations.

@@ -1,0 +1,2 @@
+Q: What tools can help manage references and reviews?
+A: Tools include EndNote (reference management), Covidence (systematic reviews), PRISMA, Abstrackr, and DistillerSR.

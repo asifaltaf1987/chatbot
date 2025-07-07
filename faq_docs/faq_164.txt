@@ -1,0 +1,2 @@
+Q: What are wildcard symbols in database searching?
+A: Wildcards like ?, # replace characters in a word to capture spelling variations (e.g., wom#n finds woman or women).

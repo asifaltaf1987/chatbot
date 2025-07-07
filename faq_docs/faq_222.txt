@@ -1,0 +1,2 @@
+Q: What are alternative journal metrics to Impact Factor?
+A: Alternatives include CiteScore, SJR (SCImago Journal Rank), SNIP (Source Normalized Impact per Paper), and Eigenfactor.

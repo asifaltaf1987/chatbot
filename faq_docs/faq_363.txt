@@ -1,0 +1,2 @@
+Q: How do I import PDFs into EndNote?
+A: Use File > Import > File and select "PDF" under Import Options. EndNote will auto-extract reference data if available.

@@ -1,0 +1,2 @@
+Q: What is SciVal?
+A: SciVal is a benchmarking tool using Scopus data to assess research performance, identify trends, and support strategic planning.

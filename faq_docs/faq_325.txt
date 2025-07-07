@@ -1,0 +1,2 @@
+Q: How do I install EndNote 21 on Windows?
+A: Download it from the RCSI Bahrain Library portal. If you have EndNote 20, uninstall it before installing EndNote 21.

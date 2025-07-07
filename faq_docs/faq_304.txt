@@ -1,0 +1,2 @@
+Q: Where can I find laboratory research protocols?
+A: Protocol resources include Cold Spring Harbor Protocols, PLoS ONE, Springer/Nature Protocols, Wiley-Blackwell Current Protocols, and WHO IRIS laboratory manuals.

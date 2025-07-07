@@ -1,0 +1,2 @@
+Q: What are the new features in EndNote 21 for Mac?
+A: New features include tag organization, library/data restoration, Word Online and Google Docs integration, improved duplicate detection, and retraction alerts.

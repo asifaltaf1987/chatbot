@@ -1,0 +1,2 @@
+Q: How are in-text citations formatted in Vancouver style?
+A: In-text citations appear as numbers in superscript or in parentheses, corresponding to a numbered reference list.

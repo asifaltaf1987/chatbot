@@ -1,0 +1,2 @@
+Q: How does CiteScore differ from Impact Factor?
+A: CiteScore uses a 3-year window and includes all document types indexed in Scopus, while JIF uses a 2-year window and includes only citable documents.

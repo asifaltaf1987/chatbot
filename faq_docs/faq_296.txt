@@ -1,0 +1,2 @@
+Q: What databases are accessible via the library portal?
+A: Accessible databases include MEDLINE, Health Research Premium, Science Direct, Scopus, and Web of Science.

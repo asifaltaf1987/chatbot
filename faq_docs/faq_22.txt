@@ -1,0 +1,2 @@
+Q: Can I undo an import in Covidence?
+A: Yes, as long as no articles have been screened, you can undo an import via the Manage Imports menu.

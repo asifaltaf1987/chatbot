@@ -1,0 +1,2 @@
+Q: Where can I find genomic data for COVID-19?
+A: Genomic data is available from GISAID and the NLM’s SARS-CoV-2 Data Hub.

@@ -1,0 +1,2 @@
+Q: What is the benefit of using subject headings in searches?
+A: Subject headings improve relevance and precision by using database-specific controlled vocabulary like MeSH in Medline or CINAHL Headings.

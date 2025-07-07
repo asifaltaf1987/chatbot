@@ -1,0 +1,2 @@
+Q: How does coding work in NVivo?
+A: Coding involves tagging data into nodes to categorize themes, relationships, or sentiments using inductive or deductive approaches.

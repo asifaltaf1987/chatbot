@@ -1,0 +1,2 @@
+Q: What is Covidence used for?
+A: Covidence is a tool designed to streamline systematic reviews by assisting healthcare professionals and researchers in evidence synthesis.

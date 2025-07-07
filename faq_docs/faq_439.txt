@@ -1,0 +1,2 @@
+Q: What are Boolean operators in Primo searching?
+A: Boolean operators like AND, OR, and NOT help refine search results and can be used in both Basic and Advanced Search modes.

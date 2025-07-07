@@ -1,0 +1,2 @@
+Q: What are groups and smart groups in EndNote?
+A: Groups are custom collections of references; Smart Groups auto-populate based on search criteria.

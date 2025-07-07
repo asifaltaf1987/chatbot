@@ -1,0 +1,2 @@
+Q: How do I import references from Primo or databases?
+A: Search and export citations using the RIS format from platforms like Primo, PubMed, Scopus, or Cochrane, then open the file to import into EndNote.

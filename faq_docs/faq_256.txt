@@ -1,0 +1,2 @@
+Q: What are the different types of Creative Commons licenses and how do they vary?
+A: Creative Commons licenses range from the most open (CC BY) to more restrictive (e.g., CC BY-NC-ND). They vary by allowing or restricting commercial use, modifications, and attribution requirements.

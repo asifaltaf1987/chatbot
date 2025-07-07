@@ -1,0 +1,2 @@
+Q: What is the EigenFactor score?
+A: The EigenFactor score ranks journals based on incoming citations, with more weight given to citations from influential journals and excluding self-citations.

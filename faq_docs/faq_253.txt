@@ -1,0 +1,2 @@
+Q: Can I collaborate with others on Covidence?
+A: Yes, you can invite team members to work collaboratively on the same project, assign roles, and track progress across stages.

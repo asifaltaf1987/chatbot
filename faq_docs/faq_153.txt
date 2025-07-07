@@ -1,0 +1,2 @@
+Q: How do I export citations from Scopus?
+A: Select the records, click “Export,” choose the desired format (e.g., EndNote, RefWorks), and confirm export options.

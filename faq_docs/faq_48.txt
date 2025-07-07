@@ -1,0 +1,2 @@
+Q: Can journal metrics be compared across disciplines?
+A: No, metrics like JIF and Eigenfactor should not be used to compare journals across different subject fields.

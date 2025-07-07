@@ -1,0 +1,2 @@
+Q: How do I finalize data extraction?
+A: After two reviewers extract data, compare and reach consensus—this consensus data is used for exports.

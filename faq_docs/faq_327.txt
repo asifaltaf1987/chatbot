@@ -1,0 +1,2 @@
+Q: What file types are associated with an EndNote library?
+A: EndNote libraries have a .enl file and a .Data folder. Both must be kept in the same location.

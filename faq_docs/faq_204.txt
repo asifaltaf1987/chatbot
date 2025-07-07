@@ -1,0 +1,2 @@
+Q: What is PRISMA?
+A: PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) provides guidelines for reporting systematic reviews.

@@ -1,0 +1,2 @@
+Q: What is the process for creating manual references?
+A: Use “New Reference,” select the reference type, fill in required fields, save, and preview the record in your chosen citation style.

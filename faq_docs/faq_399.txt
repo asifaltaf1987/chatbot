@@ -1,0 +1,2 @@
+Q: What is a search alert service?
+A: It automatically runs saved database searches and delivers the results via email or RSS feed.

@@ -1,0 +1,2 @@
+Q: How can I find highly cited journals in my field using Web of Science?
+A: Use Journal Citation Reports (JCR) to search by category, quartile, or open access status to identify journals suitable for manuscript submission.

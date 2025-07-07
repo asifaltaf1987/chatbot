@@ -1,0 +1,2 @@
+Q: How can I edit or remove a citation in Word using EndNote?
+A: Use “Edit & Manage Citation(s)” in the EndNote tab to add page numbers, exclude details, or remove the citation.

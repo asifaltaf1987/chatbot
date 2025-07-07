@@ -1,0 +1,2 @@
+Q: How can I attach PDFs manually to references?
+A: Use the "+ Attach PDF" option in the reference panel after saving the PDF to your computer.

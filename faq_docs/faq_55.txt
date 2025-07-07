@@ -1,0 +1,2 @@
+Q: What is CiteScore?
+A: CiteScore measures the average citations per document a title receives over a 3-year period, using data from Scopus.

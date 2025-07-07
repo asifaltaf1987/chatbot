@@ -1,0 +1,2 @@
+Q: How is quality assessed in a systematic review?
+A: Quality is assessed using tools like the Cochrane Risk of Bias tool or other domain-based instruments.

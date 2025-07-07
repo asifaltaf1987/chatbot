@@ -1,0 +1,2 @@
+Q: Where can I learn more about impact metrics?
+A: Resources include the Metrics Toolkit, Altmetric for Researchers, and the SPARC primer on article-level metrics.

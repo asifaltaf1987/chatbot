@@ -1,0 +1,2 @@
+Q: What zones are available for booking?
+A: Bookings can be made in the Red Zone and Green Zone.

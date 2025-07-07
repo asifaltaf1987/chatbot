@@ -1,0 +1,2 @@
+Q: What is the data extraction process in Covidence?
+A: After QA, extract data using a form that follows the PICO format. This form becomes the template for other studies.

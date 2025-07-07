@@ -1,0 +1,2 @@
+Q: What are limitations of journal metrics like JIF and Eigenfactor?
+A: They do not assess individual article quality, vary across disciplines, can be manipulated, and don't necessarily reflect an author's influence.

@@ -1,0 +1,2 @@
+Q: What is a Scopus Author Identifier?
+A: It is a unique number assigned to each author to distinguish their works, especially in cases of name variations.

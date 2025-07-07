@@ -1,0 +1,2 @@
+Q: What is the file size and reference limit for imports?
+A: You can import files up to 50 MB and 15,000 references per file.

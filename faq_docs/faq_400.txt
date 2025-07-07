@@ -1,0 +1,2 @@
+Q: What is a citation alert service?
+A: It sends notifications whenever a chosen article is cited by new publications.

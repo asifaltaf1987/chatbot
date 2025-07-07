@@ -1,0 +1,2 @@
+Q: What is a Scopus Author ID?
+A: Scopus Author ID is an 11-digit identifier automatically assigned in Scopus and ScienceDirect to group an author's publications.

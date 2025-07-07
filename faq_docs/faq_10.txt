@@ -1,0 +1,2 @@
+Q: What is Covidence?
+A: Covidence is a web-based platform designed to streamline the process of conducting a comprehensive literature review, particularly for systematic reviews.

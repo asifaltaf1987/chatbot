@@ -1,0 +1,2 @@
+Q: Where can I learn R?
+A: Resources include R manuals, videos, online courses (Coursera, Udemy), R-bloggers, and the R Journal.

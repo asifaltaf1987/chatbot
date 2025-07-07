@@ -57,7 +57,7 @@ def getBot(memory):
     llm = OpenAI(model="gpt-4o-mini", temperature=0, api_key=st.secrets.openai.key)
     today = datetime.date.today().strftime('%B %d, %Y')
 
-    context = "Refer to the following context documents to answer user queries based on our library's FAQ database. Do not hallucinate. If unsure, refer users to Ask A Librarian at https://libchat.rcsi-mub.com/."
+    context = "Refer to the following context documents to answer user queries based on our library's FAQ database. Do not hallucinate. If unsure, refer users to Ask A Librarian at https://libchat.rcsi-mub.com/"
 
     system_prompt = (
         "You are Laira, the AI assistant for the Library of RCSI Medical University of Bahrain. Respond supportively and professionally like a peer mentor.\n\n"
@@ -102,6 +102,7 @@ def queryBot(user_query, bot, chip=''):
                 if not answer:
                     answer = "⚠️ Sorry, I couldn't find an answer. Please try rephrasing your question or check the [Library FAQs](https://libchat.rcsi-mub.com/)."
                 st.write(answer)
+                st.write(response.source_nodes)  # Debug: Show source evidence
             except Exception as e:
                 st.error(f"⚠️ An error occurred: {e}")
 

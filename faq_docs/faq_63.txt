@@ -1,0 +1,2 @@
+Q: How does EigenFactor differ from Impact Factor?
+A: EigenFactor considers citation source quality, removes self-citations, and normalizes across disciplines, unlike JIF which counts all citations equally.

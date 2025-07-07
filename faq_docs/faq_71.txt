@@ -1,0 +1,2 @@
+Q: What citation styles are supported?
+A: The guide supports citation styles such as Harvard and Vancouver.

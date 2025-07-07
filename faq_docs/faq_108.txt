@@ -1,0 +1,2 @@
+Q: How extensive is the MeSH vocabulary?
+A: MeSH includes over 28,000 descriptors, more than 90,000 entry terms, and 240,000 supplementary concept records.

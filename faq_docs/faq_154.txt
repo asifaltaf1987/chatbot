@@ -1,0 +1,2 @@
+Q: What types of alerts can I create in Scopus?
+A: Scopus supports Search Alerts, Document Citation Alerts, and Author Citation Alerts to notify users of updates via email.

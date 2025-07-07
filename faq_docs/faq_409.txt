@@ -1,0 +1,2 @@
+Q: What is the Book Request Service?
+A: It is an online service for borrowing and returning print resources from the Library collection at RCSI Bahrain.

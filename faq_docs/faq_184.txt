@@ -1,0 +1,2 @@
+Q: What query options does NVivo offer?
+A: NVivo includes text search, word frequency, coding, matrix coding, crosstab, compound, coding comparison, and group queries.

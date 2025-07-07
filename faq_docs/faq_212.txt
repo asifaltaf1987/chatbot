@@ -1,0 +1,2 @@
+Q: How do I find which journals publish the most papers on my topic?
+A: Search your topic in Web of Science, then use the “Analyze Results” tool and select “Source Titles” to identify the most active journals.

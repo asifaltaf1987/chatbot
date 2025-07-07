@@ -1,0 +1,2 @@
+Q: How do I remove duplicates in EndNote?
+A: Use Library > Find Duplicates to compare and manage duplicate references. You can delete or manually review duplicates.

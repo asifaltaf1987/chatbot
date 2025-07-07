@@ -1,0 +1,2 @@
+Q: How does a systematic review differ from a traditional literature review?
+A: Systematic reviews use structured, transparent methods, while traditional reviews are more narrative and may lack reproducibility.

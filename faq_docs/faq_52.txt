@@ -1,0 +1,2 @@
+Q: How is the Journal Impact Factor calculated?
+A: JIF is calculated by averaging the number of citations received by articles published in a journal during the two preceding years.

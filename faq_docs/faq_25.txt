@@ -1,0 +1,2 @@
+Q: What is the PRISMA diagram in Covidence?
+A: The PRISMA diagram is auto-populated and updates as you progress, including duplicates and reasons for full-text exclusions.

@@ -1,0 +1,2 @@
+Q: How do I manually add references in EndNote?
+A: Click “New Reference” and fill in the details, ensuring the reference type matches the source.

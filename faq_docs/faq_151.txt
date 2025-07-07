@@ -1,0 +1,2 @@
+Q: Where can I find an author's Scopus ID?
+A: Run a search, click on the author's name in the results, and find the ID under their name and affiliation.

@@ -1,0 +1,2 @@
+Q: What is a Journal Issue or TOC alert?
+A: It notifies users via email or RSS feed whenever a new issue of a selected journal is published.

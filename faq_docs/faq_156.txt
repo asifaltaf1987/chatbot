@@ -1,0 +1,2 @@
+Q: What are subject headings in database searches?
+A: Subject headings, like MeSH in Medline or CINAHL Headings in CINAHL, are standardized terms that improve search accuracy and relevance.

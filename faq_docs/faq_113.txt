@@ -1,0 +1,2 @@
+Q: What is a ResearcherID?
+A: ResearcherID is a unique identifier feature on Web of Science that links an author with their publications, regardless of name or affiliation variations.

@@ -1,0 +1,2 @@
+Q: How do I control the visibility of my ORCID profile?
+A: You can set visibility to Public, Trusted parties, or Private for different parts of your ORCID record.

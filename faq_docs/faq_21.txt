@@ -1,0 +1,2 @@
+Q: How does Covidence handle duplicate references?
+A: Covidence automatically checks for and removes duplicates during import, which are recorded in the PRISMA chart.

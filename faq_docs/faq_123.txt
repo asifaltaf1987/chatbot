@@ -1,0 +1,2 @@
+Q: Should I enable automatic updates in Google Scholar?
+A: If you have a common name, it’s better to disable automatic updates to avoid incorrect article associations.

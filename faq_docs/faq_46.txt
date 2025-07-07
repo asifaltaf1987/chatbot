@@ -1,0 +1,2 @@
+Q: How is Article Influence Score calculated?
+A: It is derived by dividing the Eigenfactor by the number of articles in a journal, using a 5-year citation window.

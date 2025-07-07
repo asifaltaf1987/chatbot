@@ -1,0 +1,2 @@
+Q: What is data extraction in a systematic review?
+A: Data extraction involves collecting key information from included studies for analysis.

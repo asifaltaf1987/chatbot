@@ -1,0 +1,2 @@
+Q: What is an Affiliation Search in Scopus?
+A: Affiliation Search finds documents and authors by institution. You can search using variations of an institution's name.

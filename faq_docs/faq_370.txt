@@ -1,0 +1,2 @@
+Q: How do I use EndNote with Microsoft Word?
+A: Use the “Insert Citation” feature in the EndNote tab. To troubleshoot visibility, ensure the CWYW add-in is enabled and automation permissions are set.

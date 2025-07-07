@@ -1,0 +1,2 @@
+Q: What is the difference between NEAR and WITHIN in proximity searches?
+A: NEAR retrieves terms in any order within a set number of words; WITHIN retrieves terms in a specific order within a set distance.

@@ -1,0 +1,2 @@
+Q: How can I find top journals in my field?
+A: Use bibliometric tools like JCR, CiteScore, EigenFactor, and Google Scholar Metrics. Rankings can vary by tool, metric, and subject scope.

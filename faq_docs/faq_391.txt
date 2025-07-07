@@ -1,0 +1,2 @@
+Q: Can I make more than one reservation a day?
+A: No, each user can only make one reservation per day.

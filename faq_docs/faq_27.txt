@@ -1,0 +1,2 @@
+Q: Can I use multiple tools in one review for Quality Assessment?
+A: No, only one QA tool can be used per review, though you can mix domains from multiple tools within that form.

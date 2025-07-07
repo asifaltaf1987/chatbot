@@ -1,0 +1,2 @@
+Q: What is artificial intelligence (AI)?
+A: AI refers to computer systems performing tasks that usually require human intelligence, including machine learning and deep learning.

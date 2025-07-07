@@ -1,0 +1,2 @@
+Q: What are inclusion and exclusion criteria in a systematic review?
+A: These are predefined rules to determine which studies are included or excluded from the review.

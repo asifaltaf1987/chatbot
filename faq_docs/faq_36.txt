@@ -1,0 +1,2 @@
+Q: What are common bibliometric indicators?
+A: Impact factor and h-index are commonly used indicators in bibliometrics.

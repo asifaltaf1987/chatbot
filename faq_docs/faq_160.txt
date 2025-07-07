@@ -1,0 +1,2 @@
+Q: How does the AND operator affect search results?
+A: It narrows a search by retrieving only records containing all linked terms.

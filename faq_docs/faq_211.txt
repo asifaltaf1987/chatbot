@@ -1,0 +1,2 @@
+Q: What do JCR quartiles mean?
+A: JCR quartiles classify journals by impact: Q1 (top 25%), Q2 (25–50%), Q3 (50–75%), and Q4 (bottom 25%) based on Journal Impact Factor.

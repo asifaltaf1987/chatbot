@@ -1,0 +1,2 @@
+Q: How do I cite a source with four or more authors?
+A: Use the first author's surname followed by "et al.", e.g., (van Alphen et al., 2007).

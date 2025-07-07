@@ -1,0 +1,2 @@
+Q: How are screening conflicts resolved?
+A: Conflicting votes are resolved on the Resolve Conflicts page, with blind voting to minimize bias.

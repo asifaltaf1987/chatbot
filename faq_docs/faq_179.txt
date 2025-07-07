@@ -1,0 +1,2 @@
+Q: What types of statistical tests can be performed in SPSS?
+A: SPSS supports descriptive statistics, T-tests, chi-square, regression, correlation, and ANOVA.

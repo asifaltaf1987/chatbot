@@ -1,0 +1,2 @@
+Q: How can I find full-text articles using EndNote?
+A: Use the “Find Full Text” feature, ensuring the OpenURL Path is set to RCSI's link resolver to retrieve PDFs or URLs.

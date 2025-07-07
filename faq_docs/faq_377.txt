@@ -1,0 +1,2 @@
+Q: What is the CREATE framework for AI prompting?
+A: CREATE stands for Character, Request, Examples, Adjustments, Type, and Extras—guidelines for crafting effective AI prompts.

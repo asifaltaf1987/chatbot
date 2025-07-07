@@ -1,0 +1,2 @@
+Q: Why should I use multiple metrics instead of just one?
+A: A range of metrics provides a fuller picture of research impact and should complement, not replace, peer review.

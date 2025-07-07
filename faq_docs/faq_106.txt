@@ -1,0 +1,2 @@
+Q: What is MeSH in PubMed?
+A: MeSH (Medical Subject Headings) is the National Library of Medicine’s controlled vocabulary thesaurus used for indexing articles in PubMed.

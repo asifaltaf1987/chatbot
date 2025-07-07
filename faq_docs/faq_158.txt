@@ -1,0 +1,2 @@
+Q: What is Boolean search and how does it work?
+A: Boolean search uses operators (AND, OR, NOT) to combine keywords and refine results.

@@ -1,0 +1,2 @@
+Q: What are the fines for overdue library books?
+A: Overdue fines are 0.100 fils per day per item.

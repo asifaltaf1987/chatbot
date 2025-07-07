@@ -1,0 +1,2 @@
+Q: How can I create a Publons profile?
+A: Visit publons.com, click “Create a Publons Profile,” and register using the same email as your Web of Science or EndNote account. Link your ORCID to import publications.

@@ -1,0 +1,2 @@
+Q: Can I use Covidence if I'm not affiliated with RCSI Bahrain?
+A: You can serve as a reviewer, but only RCSI Bahrain affiliates can create new reviews under the institutional license.

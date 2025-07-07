@@ -1,0 +1,2 @@
+Q: What is the purpose of a systematic review protocol?
+A: A protocol outlines the planned methods and minimizes bias, and can be registered on platforms like PROSPERO.

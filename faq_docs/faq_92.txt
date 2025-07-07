@@ -1,0 +1,2 @@
+Q: How do I register for an ORCID iD?
+A: Visit orcid.org/register and fill out the form, or register through your institutional credentials if available.

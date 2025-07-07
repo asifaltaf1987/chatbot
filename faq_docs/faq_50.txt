@@ -1,0 +1,2 @@
+Q: What is the Journal Impact Factor (JIF)?
+A: The Journal Impact Factor is a measure of how often the average article in a journal has been cited in a particular year, based on data from Journal Citation Reports (JCR).

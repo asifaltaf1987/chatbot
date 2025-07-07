@@ -1,0 +1,2 @@
+Q: How do I perform a phrase search?
+A: Enclose phrases in quotation marks (e.g., “hearing impaired”) to ensure words appear together in order.

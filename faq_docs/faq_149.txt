@@ -1,0 +1,2 @@
+Q: How do I search for an author in Scopus?
+A: Use the ‘Author Search’ tab, search by name or ORCID iD, and view their documents, citations, and profile details.

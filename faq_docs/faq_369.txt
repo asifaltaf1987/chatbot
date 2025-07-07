@@ -1,0 +1,2 @@
+Q: What are the best practices for sharing an EndNote library?
+A: Create a compressed library (.enlx file) and send via email. The recipient opens it through EndNote to decompress and use the references.

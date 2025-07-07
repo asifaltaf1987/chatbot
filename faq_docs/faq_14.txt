@@ -1,0 +1,2 @@
+Q: What can I do with Covidence?
+A: Covidence allows you to conduct citation screening, full-text review, risk of bias assessment, data extraction, and data export, all within a single platform.

@@ -1,0 +1,2 @@
+Q: How do I create a new EndNote library?
+A: Open EndNote from the Applications folder, and a default library named "My EndNote Library" will be created with a .enl file and .Data folder.

@@ -1,0 +1,2 @@
+Q: How do I import references into Covidence?
+A: Click "Import" on your Review Summary page and upload references in EndNote XML, PubMed, or RIS text formats.

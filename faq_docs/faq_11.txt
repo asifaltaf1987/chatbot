@@ -1,0 +1,2 @@
+Q: Who typically uses Covidence?
+A: Covidence is primarily used by researchers conducting systematic reviews and is especially useful in health sciences, though it's suitable for any evidence-based academic discipline.

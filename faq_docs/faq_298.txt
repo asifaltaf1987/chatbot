@@ -1,0 +1,2 @@
+Q: What is PRISMA?
+A: PRISMA provides a minimum set of items for reporting in literature reviews, systematic reviews, and meta-analyses.

@@ -1,0 +1,2 @@
+Q: What is NVivo used for?
+A: NVivo is software for qualitative analysis of textual and audiovisual data, allowing for coding, annotation, visualization, and querying.

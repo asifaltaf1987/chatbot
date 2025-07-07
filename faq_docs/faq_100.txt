@@ -1,0 +1,2 @@
+Q: How do I assign someone else to manage my ORCID profile?
+A: Under "Account settings", designate a trusted individual who can access and edit your ORCID record.

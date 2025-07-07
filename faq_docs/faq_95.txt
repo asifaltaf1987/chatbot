@@ -1,0 +1,2 @@
+Q: Can I import citations into ORCID from other databases?
+A: Yes, ORCID supports importing from databases such as Scopus, Web of Science, CrossRef, and MLA International Bibliography.

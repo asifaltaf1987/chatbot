@@ -1,0 +1,2 @@
+Q: How do I create alerts in Web of Science?
+A: Register an account, run a search, then click 'Create Alert' from the left panel and fill out the popup form.

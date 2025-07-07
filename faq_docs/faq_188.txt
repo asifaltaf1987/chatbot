@@ -1,0 +1,2 @@
+Q: What is Jamovi and who is it for?
+A: Jamovi is free, open-source statistical software based on R with a GUI similar to SPSS, suitable for Windows, Mac, and Linux users.

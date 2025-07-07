@@ -1,0 +1,2 @@
+Q: Can I receive alerts from PubMed for full-text availability?
+A: Yes, customize My NCBI preferences to include full-text links in your PubMed alerts.

@@ -1,0 +1,2 @@
+Q: What is Advanced Search in Scopus?
+A: Advanced Search lets you use field codes, Boolean and proximity operators to perform more precise queries.

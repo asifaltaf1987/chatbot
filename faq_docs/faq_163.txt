@@ -1,0 +1,2 @@
+Q: What is truncation in search strategies?
+A: Truncation uses a symbol (commonly ) to find word variants with different endings (e.g., child retrieves child, children, childhood).

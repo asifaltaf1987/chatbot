@@ -1,0 +1,2 @@
+Q: What happens if I don't occupy the room within 30 minutes of the booking time?
+A: The room becomes available for others to use.

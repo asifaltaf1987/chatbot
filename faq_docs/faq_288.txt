@@ -1,0 +1,2 @@
+Q: How do I cite multiple references at once in Vancouver style?
+A: Use hyphens for inclusive numbers (e.g., 3-6) and commas for non-sequential numbers (e.g., 3,9,17).

@@ -1,0 +1,2 @@
+Q: How do I create a search alert in Scopus?
+A: Perform a search, click “Set alert” on the results page, enter your email, choose frequency, select status, and click “Save” or “Set Alert.”

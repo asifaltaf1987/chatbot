@@ -1,0 +1,2 @@
+Q: How do I manage and organize references into groups?
+A: Create a group under the “Groups” menu, then drag references or use "Add References To" to move them into the group.

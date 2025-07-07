@@ -1,0 +1,2 @@
+Q: What are some topics covered in R tutorials?
+A: R tutorials cover statistical functions, graphics, data manipulation, time series, survival analysis, and more.

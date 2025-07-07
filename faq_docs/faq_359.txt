@@ -1,0 +1,2 @@
+Q: How do I change the referencing style in EndNote?
+A: Click the drop-down in the bottom-right corner and select your desired referencing style.

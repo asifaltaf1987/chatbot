@@ -1,0 +1,2 @@
+Q: How do I cite works by the same author in the same year?
+A: Add lowercase letters after the year, e.g., (Goldacre, 2008a; Goldacre, 2008b).

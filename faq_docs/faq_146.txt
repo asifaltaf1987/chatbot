@@ -1,0 +1,2 @@
+Q: How can I exclude Medline records in Scopus searches?
+A: Add AND NOT INDEX(medline) in your advanced search string.

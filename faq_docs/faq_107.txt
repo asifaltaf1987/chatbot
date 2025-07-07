@@ -1,0 +1,2 @@
+Q: How can MeSH terms help in PubMed searches?
+A: MeSH terms help improve searches by allowing users to broaden or narrow search results more effectively.

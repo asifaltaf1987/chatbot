@@ -1,0 +1,2 @@
+Q: What resources provide COVID-19 clinical trial data?
+A: Use ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform for clinical studies on COVID-19.

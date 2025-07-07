@@ -1,0 +1,2 @@
+Q: How do I insert citations into Microsoft Word using EndNote?
+A: Use the “Insert Citation” feature under the EndNote tab in Word to add citations directly from your library.

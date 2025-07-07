@@ -1,0 +1,2 @@
+Q: What default tags are available in Covidence?
+A: Covidence includes “Ongoing Study” and “Awaiting Classification” as default tags, which are counted in the PRISMA flowchart.

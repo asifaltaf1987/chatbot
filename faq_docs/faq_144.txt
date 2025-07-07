@@ -1,0 +1,2 @@
+Q: How do I conduct a basic document search in Scopus?
+A: Use the default 'Document' search to find records containing your terms in specific fields.

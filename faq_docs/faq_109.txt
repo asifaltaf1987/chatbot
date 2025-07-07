@@ -1,0 +1,2 @@
+Q: How should I conduct a basic search in PubMed?
+A: Use simple, specific keywords in the search box. PubMed also suggests terms based on common searches.

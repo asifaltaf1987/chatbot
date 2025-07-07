@@ -1,0 +1,2 @@
+Q: How do I adjust review settings in Covidence?
+A: Go to the review dashboard, click “Settings,” and under "Review Settings," you can change the title, reviewer numbers, and criteria.

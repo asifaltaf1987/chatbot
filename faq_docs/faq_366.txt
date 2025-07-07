@@ -1,0 +1,2 @@
+Q: What is the use of tags in EndNote?
+A: Tags can be added in the Tags field within a reference for better organization and searchability.

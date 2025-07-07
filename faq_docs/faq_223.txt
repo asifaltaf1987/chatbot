@@ -1,0 +1,2 @@
+Q: What does the h-index measure?
+A: The h-index measures an author's productivity and citation impact. Available via Scopus, Web of Science, and Google Scholar.

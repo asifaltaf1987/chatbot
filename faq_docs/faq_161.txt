@@ -1,0 +1,2 @@
+Q: How does the NOT operator work in database searches?
+A: It excludes records containing a specified term, refining the search further.

@@ -1,0 +1,2 @@
+Q: How does the OR operator affect search results?
+A: It broadens a search by retrieving results that contain any of the linked terms.

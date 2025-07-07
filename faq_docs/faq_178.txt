@@ -1,0 +1,2 @@
+Q: How is data entered in SPSS?
+A: Data can be input using Data View and edited in Variable View; the interface differs slightly between Mac and PC versions.

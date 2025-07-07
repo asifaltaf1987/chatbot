@@ -1,0 +1,2 @@
+Q: What is Google Scholar Citations?
+A: It is a feature that lets authors track citations to their work, check who is citing them, and compute citation metrics.

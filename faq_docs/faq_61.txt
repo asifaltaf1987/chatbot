@@ -1,0 +1,2 @@
+Q: How is the EigenFactor score calculated?
+A: It is based on a network of citations, adjusted for time researchers spend reading the journal, and uses a 5-year citation window.

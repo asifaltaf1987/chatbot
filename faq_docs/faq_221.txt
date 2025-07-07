@@ -1,0 +1,2 @@
+Q: What are journal impact factors and how are they calculated?
+A: Impact Factor = citations in a year to items published in the previous two years ÷ number of citable items. Provided by Journal Citation Reports (JCR).

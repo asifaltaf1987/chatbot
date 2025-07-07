@@ -1,0 +1,2 @@
+Q: What tools are available for searching in PubMed?
+A: PubMed offers basic and advanced search options, and supports the use of MeSH for refined searching.

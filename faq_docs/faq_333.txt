@@ -1,0 +1,2 @@
+Q: How do I find full text for references in EndNote?
+A: Highlight references and click “Find Full Text.” If institutional access exists, PDFs will be downloaded and attached.

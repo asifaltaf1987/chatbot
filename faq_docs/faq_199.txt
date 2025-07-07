@@ -1,0 +1,2 @@
+Q: What tools are used for managing references and screening studies?
+A: Tools include EndNote for references and Covidence for screening, data extraction, and quality assessment.

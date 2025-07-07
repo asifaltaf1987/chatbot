@@ -1,0 +1,2 @@
+Q: How do I tag studies or references in Covidence?
+A: Use predefined or custom tags in the Study Tags section or during review, which can also be used as filters.

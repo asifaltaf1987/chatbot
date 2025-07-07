@@ -1,0 +1,2 @@
+Q: What are some new features of NVivo 12?
+A: NVivo 12 includes auto-coding, improved navigation, transcription services, SPSS export, and codebook import/export capabilities.

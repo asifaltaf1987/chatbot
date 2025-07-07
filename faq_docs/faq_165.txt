@@ -1,0 +1,2 @@
+Q: How does proximity searching work?
+A: Proximity searching retrieves records with terms appearing close together, using operators like N (near) and W (within) with a number (e.g., dogs N5 cats).

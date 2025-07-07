@@ -1,0 +1,2 @@
+Q: Where can I find altmetrics?
+A: Altmetrics are often embedded in databases like Scopus, EBSCOhost, ScienceDirect, ProQuest, and in platforms such as PlumX and Altmetric.com.

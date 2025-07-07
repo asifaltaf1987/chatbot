@@ -1,0 +1,2 @@
+Q: What is SJR?
+A: SJR (SCImago Journal Rank) uses Scopus data to assess journal prestige by giving more weight to citations from high-ranking journals.

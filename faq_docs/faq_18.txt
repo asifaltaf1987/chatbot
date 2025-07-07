@@ -1,0 +1,2 @@
+Q: How do I customize screening criteria and exclusion reasons?
+A: Navigate to "Criteria & exclusion reasons" in Settings to manage screening criteria, exclusion reasons, and highlights.

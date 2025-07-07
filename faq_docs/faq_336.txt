@@ -1,0 +1,2 @@
+Q: How can I back up my EndNote library?
+A: Use “File > Compressed Library” to save a .enlx file for backup or transfer.

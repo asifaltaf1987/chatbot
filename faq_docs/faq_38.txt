@@ -1,0 +1,2 @@
+Q: What can I do with SciVal?
+A: You can benchmark performance, identify research trends and collaborators, and create reports for funding applications.

@@ -1,0 +1,2 @@
+Q: How can I set up alerts in ScienceDirect?
+A: On the results page, click 'Set search alert', name your alert, choose the frequency, and save it.

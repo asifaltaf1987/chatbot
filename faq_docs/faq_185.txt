@@ -1,0 +1,2 @@
+Q: What is R and how is it used?
+A: R is a free, open-source statistical software for data analysis, graphics, and statistical computing, available via RStudio or Athena.

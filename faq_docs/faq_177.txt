@@ -1,0 +1,2 @@
+Q: What is SPSS and what is it used for?
+A: SPSS is a statistical software from IBM used for data collection and statistical analysis across various disciplines.

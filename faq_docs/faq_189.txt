@@ -1,0 +1,2 @@
+Q: What resources are available for learning Jamovi?
+A: Users can access Jamovi tutorials from Datalab, the user guide, and video tutorials from FreeCodeCamp.

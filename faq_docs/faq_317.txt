@@ -1,0 +1,2 @@
+Q: How do I cite a source with no author?
+A: Use a corporate author or 'Anon' if none is available, e.g., (Department of Health, 2009).

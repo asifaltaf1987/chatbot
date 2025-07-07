@@ -1,0 +1,2 @@
+Q: What should I do before installing EndNote 21?
+A: Uninstall any previous version of EndNote (e.g., EndNote 20) before installing version 21.

@@ -1,0 +1,2 @@
+Q: How can I import references from a database like PubMed?
+A: Use direct export, RIS files, or drag and drop citations into your EndNote library.

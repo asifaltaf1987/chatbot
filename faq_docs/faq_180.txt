@@ -1,0 +1,2 @@
+Q: What learning resources are available for SPSS?
+A: Recommended books include Discovering Statistics Using IBM SPSS Statistics by Andy Field and SPSS Survival Manual by Julie Pallant.

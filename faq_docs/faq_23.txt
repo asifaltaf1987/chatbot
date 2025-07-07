@@ -1,0 +1,2 @@
+Q: How do I screen references in Covidence?
+A: Use the Screen tab to assess title/abstracts or full texts, voting Yes, No, or Maybe. Votes determine progression to next review stages.

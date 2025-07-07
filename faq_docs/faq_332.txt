@@ -1,0 +1,2 @@
+Q: How do I format a bibliography in Word with EndNote?
+A: Select the citation style (e.g., Harvard or Vancouver) from the EndNote tab in Word, and the bibliography will format automatically.

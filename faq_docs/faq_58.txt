@@ -1,0 +1,2 @@
+Q: What is the SNIP metric?
+A: SNIP (Source Normalized Impact per Paper) measures citation impact by considering citation practices of different fields, enabling field-normalized comparisons.

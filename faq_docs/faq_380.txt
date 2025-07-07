@@ -1,0 +1,2 @@
+Q: What are the ethical concerns when using generative AI?
+A: Issues include bias, accuracy, academic dishonesty, copyright ambiguity, overreliance, and data privacy risks.
