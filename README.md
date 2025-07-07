@@ -10,7 +10,6 @@ In production, Laira includes the following components:
 - **Web Scraper:** Scrapy *(optional extension)*  
 - **Usage Data:** MySQL *(optional extension)*  
 - **LLM:** OpenAI's GPT API  
-![laira 2025](./app/static/laira_icon.png)
 
 ## Limitations of this distribution
 
@@ -57,4 +56,4 @@ You're now ready! Customize `laira.py` and `cbconfig.toml` to fine-tune your bot
 
 ## More Information
 
-For questions or collaboration, please contact the library team at [aaltaf@rcsi-mub.com](mailto:aaltaf@rcsi-mub.com).
+For questions or collaboration, please contact the library team.
