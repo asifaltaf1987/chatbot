@@ -1,472 +1,492 @@
-question,answer
-What is the Research to Publication (RtoP) program?,Research to Publication is a research methodology and publishing program designed for doctors and healthcare researchers, developed by BMJ in collaboration with the University of California, San Francisco (UCSF).
-What does the RtoP program offer?,The RtoP program includes 8 multimedia courses that guide learners through the entire research process—from study design to publication in an international journal.
-Who provides the instruction in the RtoP program?,The program is led by BMJ research editors and UCSF academics.
-What skills does RtoP aim to teach?,RtoP helps learners acquire skills to conduct healthcare research and address challenges related to publishing in international journals.
-How many courses and modules are included in the RtoP program?,The program consists of 8 courses and 52 modules, offering over 200 hours of learning.
-How can I access the RtoP program?,You can access the Research to Publication program through the library portal.
-What do I need to register for the RtoP program?,You need to register your account using your RCSI email address.
-What are the benefits of completing the RtoP program?,Benefits include improving research quality, advancing your career through publication, self-paced learning, understanding barriers to publication, contributing to better patient outcomes, and receiving a certificate of completion for each module.
-Do I receive certification for the RtoP modules?,Yes, you receive a certificate of completion from BMJ and UCSF for every module passed.
-What is Covidence?,Covidence is a web-based platform designed to streamline the process of conducting a comprehensive literature review, particularly for systematic reviews.
-Who typically uses Covidence?,Covidence is primarily used by researchers conducting systematic reviews and is especially useful in health sciences, though it's suitable for any evidence-based academic discipline.
-How can I create a Covidence account through RCSI Bahrain?,Visit the RCSI Bahrain Covidence Sign Up page, enter your name and RCSI email, and follow the email invitation to create an account.
-Can I use Covidence if I'm not affiliated with RCSI Bahrain?,You can serve as a reviewer, but only RCSI Bahrain affiliates can create new reviews under the institutional license.
-What can I do with Covidence?,Covidence allows you to conduct citation screening, full-text review, risk of bias assessment, data extraction, and data export, all within a single platform.
-How do I start a new review in Covidence?,After signing in, click Create new review on the home page, select RCSI Bahrain as your organization, and input your review details.
-How do I adjust review settings in Covidence?,Go to the review dashboard, click “Settings,” and under Review Settings, you can change the title, reviewer numbers, and criteria.
-How do I add reviewers to a Covidence project?,Add reviewers via the Settings menu using their name and email; they must accept the invitation via email to join.
-How do I customize screening criteria and exclusion reasons?,Navigate to Criteria & exclusion reasons in Settings to manage screening criteria, exclusion reasons, and highlights.
-How do I import references into Covidence?,Click Import on your Review Summary page and upload references in EndNote XML, PubMed, or RIS text formats.
-What is the file size and reference limit for imports?,You can import files up to 50 MB and 15,000 references per file.
-How does Covidence handle duplicate references?,Covidence automatically checks for and removes duplicates during import, which are recorded in the PRISMA chart.
-Can I undo an import in Covidence?,Yes, as long as no articles have been screened, you can undo an import via the Manage Imports menu.
-How do I screen references in Covidence?,Use the Screen tab to assess title/abstracts or full texts, voting Yes, No, or Maybe. Votes determine progression to next review stages.
-How are screening conflicts resolved?,Conflicting votes are resolved on the Resolve Conflicts page, with blind voting to minimize bias.
-What is the PRISMA diagram in Covidence?,The PRISMA diagram is auto-populated and updates as you progress, including duplicates and reasons for full-text exclusions.
-How do I assess study quality in Covidence?,Use built-in or customized Quality Assessment templates, such as Cochrane Risk of Bias, after full-text review.
-Can I use multiple tools in one review for Quality Assessment?,No, only one QA tool can be used per review, though you can mix domains from multiple tools within that form.
-What is the data extraction process in Covidence?,After QA, extract data using a form that follows the PICO format. This form becomes the template for other studies.
-How do I finalize data extraction?,After two reviewers extract data, compare and reach consensus—this consensus data is used for exports.
-How do I tag studies or references in Covidence?,Use predefined or custom tags in the Study Tags section or during review, which can also be used as filters.
-What default tags are available in Covidence?,Covidence includes “Ongoing Study” and “Awaiting Classification” as default tags, which are counted in the PRISMA flowchart.
-Where can I find more help or training for Covidence?,Access Covidence webinars, YouTube videos, the Knowledge Base, or request consultations via bnair@rcsi-mub.com.
-What are impact measures in research?,Impact measures are quantitative indicators, such as bibliometrics, used to evaluate research outputs for grant applications, promotions, and to demonstrate the influence of research.
-Why should I measure or track my research impact?,Measuring impact can support job applications, funding renewals, new funding requests, and show how your research is being used.
-What is bibliometrics?,Bibliometrics involves analyzing publication profiles and citations to assess a researcher's influence or impact.
-What are common bibliometric indicators?,Impact factor and h-index are commonly used indicators in bibliometrics.
-What is SciVal?,SciVal is a benchmarking tool using Scopus data to assess research performance, identify trends, and support strategic planning.
-What can I do with SciVal?,You can benchmark performance, identify research trends and collaborators, and create reports for funding applications.
-Why should I use multiple metrics instead of just one?,A range of metrics provides a fuller picture of research impact and should complement, not replace, peer review.
-What are altmetrics?,Altmetrics track the early impact of research by monitoring social media, blogs, websites, and online reference managers.
-How do altmetrics complement traditional metrics?,They offer insights into the broader impact and engagement of research beyond academia and are available more quickly than traditional citations.
-Where can I find altmetrics?,Altmetrics are often embedded in databases like Scopus, EBSCOhost, ScienceDirect, ProQuest, and in platforms such as PlumX and Altmetric.com.
-What are some strengths of altmetrics?,Altmetrics are timely and diverse, capturing engagement with research outputs beyond academic articles.
-What is the Journal Impact Factor (IF)?,It is a measure of how often the average article in a journal is cited in a particular year.
-Where can I find Journal Impact Factors?,Impact Factors are available through Journal Citation Reports (JCR), which covers about 7,500 journals.
-How is Article Influence Score calculated?,It is derived by dividing the Eigenfactor by the number of articles in a journal, using a 5-year citation window.
-What are limitations of journal metrics like JIF and Eigenfactor?,They do not assess individual article quality, vary across disciplines, can be manipulated, and don't necessarily reflect an author's influence.
-Can journal metrics be compared across disciplines?,No, metrics like JIF and Eigenfactor should not be used to compare journals across different subject fields.
-Where can I learn more about impact metrics?,Resources include the Metrics Toolkit, Altmetric for Researchers, and the SPARC primer on article-level metrics.
-What is the Journal Impact Factor (JIF)?,The Journal Impact Factor is a measure of how often the average article in a journal has been cited in a particular year, based on data from Journal Citation Reports (JCR).
-Where can I access Journal Impact Factors?,Impact Factors are available exclusively through Journal Citation Reports (JCR), accessible via Web of Science through the library portal.
-How is the Journal Impact Factor calculated?,JIF is calculated by averaging the number of citations received by articles published in a journal during the two preceding years.
-How can I find top journals in my field?,Use bibliometric tools like JCR, CiteScore, EigenFactor, and Google Scholar Metrics. Rankings can vary by tool, metric, and subject scope.
-What are some additional tools for journal rankings?,Tools include JCR, EigenFactor, CiteScore, Google Scholar Metrics, and curated journal lists like ERIH PLUS, ABDC, and ABS Journal Quality Guide.
-What is CiteScore?,CiteScore measures the average citations per document a title receives over a 3-year period, using data from Scopus.
-How does CiteScore differ from Impact Factor?,CiteScore uses a 3-year window and includes all document types indexed in Scopus, while JIF uses a 2-year window and includes only citable documents.
-Where can I find CiteScore information?,CiteScores are available via Scopus Journal Metrics and cover over 22,000 titles across disciplines.
-What is the SNIP metric?,SNIP (Source Normalized Impact per Paper) measures citation impact by considering citation practices of different fields, enabling field-normalized comparisons.
-What is SJR?,SJR (SCImago Journal Rank) uses Scopus data to assess journal prestige by giving more weight to citations from high-ranking journals.
-What is the EigenFactor score?,The EigenFactor score ranks journals based on incoming citations, with more weight given to citations from influential journals and excluding self-citations.
-How is the EigenFactor score calculated?,It is based on a network of citations, adjusted for time researchers spend reading the journal, and uses a 5-year citation window.
-Where can I find EigenFactor scores?,EigenFactor scores are available via Journal Citation Reports and the Eigenfactor website.
-How does EigenFactor differ from Impact Factor?,EigenFactor considers citation source quality, removes self-citations, and normalizes across disciplines, unlike JIF which counts all citations equally.
-What is the purpose of journal rating lists like ERIH PLUS or ABDC?,These lists offer additional guidance on journal quality, especially in fields where bibliometric scores may not be sufficient.
-What is the purpose of the Library Research Support guide?,The guide is designed to direct RCSI Bahrain researchers to research-focused services and resources available through the Library.
-What research support services are available to graduate students?,Graduate students can access support such as research consultations, systematic review guidance, managing references, and thesis/dissertation help.
-How can I get a research consultation?,Research consultation is available through the Library’s Research Support service. Use the contact form or LibChat to get started.
-What tools are recommended for managing references?,The guide includes resources for using EndNote (Windows and Mac) and Mendeley to manage references.
-What is Covidence and how is it used?,Covidence is listed as a tool for researchers and supports systematic reviews.
-How can I keep up with new research in my field?,Use the Current Awareness Service and set up alerts in tools like PubMed and Scopus.
-What citation styles are supported?,The guide supports citation styles such as Harvard and Vancouver.
-Where can I find support for writing and citing?,Writing, citing, and creating resources are available, including guidance on citation styles, TurnItIn, plagiarism, and poster creation.
-How can I avoid predatory publishing?,The guide provides information on identifying predatory journals and choosing reputable places to publish.
-What is the Institutional Repository?,It is a platform provided for sharing research outputs openly.
-How do I access research impact services?,Impact services include ORCiD, ResearcherID, Scopus Author Profile, and Google Scholar Citations Profile.
-Where can I find journal rankings and impact measures?,The guide includes links to tools and metrics for journal rankings and impact measures.
-What should I know about copyright and fair use in publishing?,The guide includes resources on fair use, copyright permissions, and managing your own copyright.
-How can I access specialized information resources?,Specialized resources are linked within the guide, such as PubMed, Web of Science, Google Scholar, and Research to Publication.
-What is BrowZine?,BrowZine is a tool mentioned in the guide for inspiration and browsing scholarly journals.
-What is Open Access?,Open Access is the free and unrestricted access to information, including journal articles, books, images, data, and other outputs, without financial, legal, or technical barriers.
-Why is Open Access important?,Open Access promotes the global sharing of scholarly information and research, supporting unrestricted access to knowledge.
-What is Open Access Week?,Open Access Week is an annual international event held in the last week of October to promote discussions on reducing barriers to accessing research publications.
-What events are scheduled for Open Access Week 2024?,Events include workshops, author meet-and-greets, panel discussions, and showcases from October 21–24, 2024.
-What is the purpose of the Finding the Right Open-Access Journal workshop?,The workshop helps students navigate open-access publishing, understand journal metrics, and avoid predatory journals.
-What is the Meet Our Authors event about?,It provides students a chance to learn about the open-access publishing experiences of authors.
-What happens during the Research Without Borders panel discussion?,Students and staff share their experiences with the scientific publication process to inspire future open-access authors.
-What is the Blueprint to Publishing event?,It showcases open-access publications authored by students and staff.
-Where can I find more information about the Open Access Week theme?,Visit https://www.openaccessweek.org/ for current themes and additional information.
-Who can I contact for more information about Open Access Week?,You can contact the library at librarian@rcsi-mub.com.
-What does ORCID stand for?,ORCID stands for Open Researcher and Contributor Identifier.
-Why should I register for an ORCID iD?,An ORCID iD distinguishes you from other researchers, improves recognition, reduces form-filling, and connects your research and affiliations throughout your career.
-How do I register for an ORCID iD?,Visit orcid.org/register and fill out the form, or register through your institutional credentials if available.
-How can I use my ORCID iD?,Include it when submitting publications, applying for grants, and on academic profiles to ensure your work is accurately attributed.
-How do I add works to my ORCID profile?,You can add works by linking to databases, importing BibTeX files, or entering information manually.
-Can I import citations into ORCID from other databases?,Yes, ORCID supports importing from databases such as Scopus, Web of Science, CrossRef, and MLA International Bibliography.
-How do I control the visibility of my ORCID profile?,You can set visibility to Public, Trusted parties, or Private for different parts of your ORCID record.
-How do I link my ORCID to other research tools?,Link your ORCID to Scopus, Web of Science, ResearcherID, figshare, and other services to import works and enhance visibility.
-What should I include in my ORCID profile?,Add a biography, education, employment, funding details, keywords, and links to profiles like RCSI repository or ResearchGate.
-Can I have more than one ORCID iD?,No, you should only have one ORCID iD. If you have duplicates, remove the extra account via Account settings.
-How do I assign someone else to manage my ORCID profile?,Under Account settings, designate a trusted individual who can access and edit your ORCID record.
-What are the benefits of making my ORCID profile public?,Making your profile public increases research visibility and allows integration with more systems.
-Why should I add name variations to my ORCID profile?,Including name variations helps ensure all your publications are correctly attributed, especially if you've published under different names.
-How is ORCID used by publishers and institutions?,Many publishers and funders require or support ORCID iDs to streamline submission processes and ensure accurate attribution.
-What is PubMed?,PubMed is part of Medline, a large biomedical database with over 30 million records, covering topics like medicine, nursing, pharmacy, health care, biology, and biochemistry.
-What subjects does PubMed cover?,PubMed includes articles from academic journals in medicine, nursing, pharmacy, health care, biology, and biochemistry.
-What is MeSH in PubMed?,MeSH (Medical Subject Headings) is the National Library of Medicine’s controlled vocabulary thesaurus used for indexing articles in PubMed.
-How can MeSH terms help in PubMed searches?,MeSH terms help improve searches by allowing users to broaden or narrow search results more effectively.
-How extensive is the MeSH vocabulary?,MeSH includes over 28,000 descriptors, more than 90,000 entry terms, and 240,000 supplementary concept records.
-How should I conduct a basic search in PubMed?,Use simple, specific keywords in the search box. PubMed also suggests terms based on common searches.
-What tools are available for searching in PubMed?,PubMed offers basic and advanced search options, and supports the use of MeSH for refined searching.
-Where can I find a tutorial on subject searching in PubMed?,A video tutorial on subject searching in PubMed is mentioned in the document.
-What is the National Library of Medicine (NLM)?,The NLM is a U.S. institution that manages PubMed and MeSH, and regularly posts updates on its services and job opportunities.
-What is a ResearcherID?,ResearcherID is a unique identifier feature on Web of Science that links an author with their publications, regardless of name or affiliation variations.
-How can I create a ResearcherID?,You can register via the Web of Science or the ResearcherID website by logging in through the library portal.
-How do I add publications to my ResearcherID profile?,Search for your articles in Web of Science by author, then select and add them to your ResearcherID profile.
-Is ResearcherID updated automatically?,No, you must manually keep your ResearcherID profile up to date.
-What is a Scopus Author ID?,Scopus Author ID is an 11-digit identifier automatically assigned in Scopus and ScienceDirect to group an author's publications.
-What if I have multiple Scopus profiles?,You can request profile amendments or merge profiles if more than one has been created.
-What content types does Scopus index?,Scopus indexes peer-reviewed journals, trade publications, open-access journals, books, conference papers, and patents from over 5,000 publishers.
-Can I link my Scopus profile with ORCID?,Yes, you can connect your Scopus author profile to your ORCID from the Author details page in Scopus.
-What is Google Scholar Citations?,It is a feature that lets authors track citations to their work, check who is citing them, and compute citation metrics.
-How do I create a Google Scholar profile?,Sign into Google with a Gmail account, go to Google Scholar, click My Citations, and follow prompts to add and manage your articles.
-Should I enable automatic updates in Google Scholar?,If you have a common name, it’s better to disable automatic updates to avoid incorrect article associations.
-What is scholarly communication?,Scholarly communication refers to the process of creating, evaluating, disseminating, and preserving scholarly work.
-What is Open Access (OA)?,Open Access is a publishing model that allows unrestricted online access to scholarly journal articles, books, data, and other outputs.
-How does Open Access differ from traditional publishing?,Traditional publishing relies on paid subscriptions for access, whereas Open Access is freely available to anyone online.
-What are Article Processing Charges (APCs)?,APCs are fees charged by some open access journals to publish an article. Not all OA journals charge APCs.
-What is Green Open Access?,Green OA allows authors to deposit versions of their articles in institutional repositories like the RCSI Repository, possibly with embargoes.
-What is the RCSI Repository?,It is an institutional repository that collects, preserves, and disseminates RCSI’s research outputs online for open access.
-Who mandates Open Access publishing at RCSI?,Funders such as Science Foundation Ireland (SFI), the Health Research Board (HRB), and the Irish Research Council (IRC) require OA publishing.
-What is Plan S?,Plan S is an initiative by research funders to ensure that all publicly funded research is published in compliant open access journals or platforms.
-What does Plan S require from researchers?,From January 2020, researchers must publish publicly funded research in compliant OA journals or platforms without embargoes.
-What are some major Open Access book initiatives?,Initiatives include Radical Open Access, Knowledge Unlatched, and TOME (Toward an Open Monograph Ecosystem).
-What tools help determine article sharing rights?,Sherpa Romeo helps researchers understand publisher policies for archiving and sharing article versions.
-What are the different article versions?,They include the Submitted Version (preprint), Accepted Version (postprint), and Published Version (version of record).
-What is the SPARC Author Addendum?,It is a tool provided by SPARC to help authors retain rights to their work when signing publishing agreements.
-What are the pros of publishing Open Access?,OA increases visibility, accessibility, discoverability, and author control over copyright.
-What are the cons of Open Access publishing?,Some OA journals charge APCs and there is a risk of predatory journals. OA is sometimes undervalued in tenure reviews.
-What is the role of the RCSI Repository in OA?,It supports compliance with funder mandates, increases visibility, and archives institutional scholarly output.
-How can I deposit research in the RCSI Repository?,Use the RIMS system to submit your work to the RCSI Repository for open access availability.
-What is Scopus?,Scopus is the largest international abstract and citation database of peer-reviewed literature and quality web sources, indexing over 45.5 million records from 5,000 publishers.
-What can I do with Scopus?,Scopus allows users to track citations, view h-index scores, analyze research trends, assess journals, manage research impact with ORCID, and identify collaborators or experts.
-How do I create a search alert in Scopus?,Perform a search, click “Set alert” on the results page, enter your email, choose frequency, select status, and click “Save” or “Set Alert.”
-How do I conduct a basic document search in Scopus?,Use the default 'Document' search to find records containing your terms in specific fields.
-What is Advanced Search in Scopus?,Advanced Search lets you use field codes, Boolean and proximity operators to perform more precise queries.
-How can I exclude Medline records in Scopus searches?,Add AND NOT INDEX(medline) in your advanced search string.
-What is an Affiliation Search in Scopus?,Affiliation Search finds documents and authors by institution. You can search using variations of an institution's name.
-What is the Scopus Affiliation ID for RCSI Bahrain?,The Scopus Affiliation ID for RCSI Bahrain is 60107237.
-How do I search for an author in Scopus?,Use the ‘Author Search’ tab, search by name or ORCID iD, and view their documents, citations, and profile details.
-What is a Scopus Author Identifier?,It is a unique number assigned to each author to distinguish their works, especially in cases of name variations.
-Where can I find an author's Scopus ID?,Run a search, click on the author's name in the results, and find the ID under their name and affiliation.
-How can I review documents in Scopus?,Click on a document title to see full details like citation info, metrics, references, and related documents.
-How do I export citations from Scopus?,Select the records, click “Export,” choose the desired format (e.g., EndNote, RefWorks), and confirm export options.
-What types of alerts can I create in Scopus?,Scopus supports Search Alerts, Document Citation Alerts, and Author Citation Alerts to notify users of updates via email.
-How do I frame a search strategy for research?,Begin by identifying main concepts in your topic, conduct a keyword search, analyze relevant results, and refine using subject headings or database thesauri.
-What are subject headings in database searches?,Subject headings, like MeSH in Medline or CINAHL Headings in CINAHL, are standardized terms that improve search accuracy and relevance.
-Why should I keep track of search terms?,Tracking terms prevents duplicate searches and helps refine strategy effectively.
-What is Boolean search and how does it work?,Boolean search uses operators (AND, OR, NOT) to combine keywords and refine results.
-How does the OR operator affect search results?,It broadens a search by retrieving results that contain any of the linked terms.
-How does the AND operator affect search results?,It narrows a search by retrieving only records containing all linked terms.
-How does the NOT operator work in database searches?,It excludes records containing a specified term, refining the search further.
-How do I perform a phrase search?,Enclose phrases in quotation marks (e.g., “hearing impaired”) to ensure words appear together in order.
-What is truncation in search strategies?,Truncation uses a symbol (commonly ) to find word variants with different endings (e.g., child retrieves child, children, childhood).
-What are wildcard symbols in database searching?,Wildcards like ?, # replace characters in a word to capture spelling variations (e.g., wom#n finds woman or women).
-How does proximity searching work?,Proximity searching retrieves records with terms appearing close together, using operators like N (near) and W (within) with a number (e.g., dogs N5 cats).
-What is the difference between NEAR and WITHIN in proximity searches?,NEAR retrieves terms in any order within a set number of words; WITHIN retrieves terms in a specific order within a set distance.
-What COVID-19 publication databases are recommended?,Recommended sources include PubMed (COVID trending), WHO COVID-19 publications database, Europe PMC, and NEJM Journal Watch.
-Where can I find systematic reviews on COVID-19?,The EPPI Centre offers a living systematic map of COVID-19 evidence, categorizing articles from Embase and Medline.
-What are reliable preprint sources for COVID-19 research?,Preprint platforms include Europe PMC, BioRxiv, MedRxiv, SSRN, and arXiv.
-What resources provide COVID-19 clinical trial data?,Use ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform for clinical studies on COVID-19.
-Where can I find genomic data for COVID-19?,Genomic data is available from GISAID and the NLM’s SARS-CoV-2 Data Hub.
-What funding sources are available for COVID-19 research?,Funding options include Crowdhelix Network, HRB COVID-19 Rapid Response Call, SFI/Enterprise Ireland/IDA COVID-19 initiatives, and European Commission tenders.
-What are recommended information sources for diabetes and metabolic disease research?,Resources include NEJM Journal Watch articles covering treatments and risks related to diabetes and metabolic disorders.
-What are some top journals for cardiovascular and metabolic research?,Journals include Circulation, JACC, Circulation Research, European Heart Journal, Hypertension, and Stroke.
-What books are suggested for breast cancer research?,Recommended titles include Breast Cancer - Your Treatment Choices by Terry Priestman and Breast Cancer by Emma Pennery et al.
-What are key sources for breast cancer research updates?,NEJM Journal Watch provides updates on chemotherapy effects, surgical strategies, and targeted treatments in breast cancer.
-What is SPSS and what is it used for?,SPSS is a statistical software from IBM used for data collection and statistical analysis across various disciplines.
-How is data entered in SPSS?,Data can be input using Data View and edited in Variable View; the interface differs slightly between Mac and PC versions.
-What types of statistical tests can be performed in SPSS?,SPSS supports descriptive statistics, T-tests, chi-square, regression, correlation, and ANOVA.
-What learning resources are available for SPSS?,Recommended books include Discovering Statistics Using IBM SPSS Statistics by Andy Field and SPSS Survival Manual by Julie Pallant.
-What is NVivo used for?,NVivo is software for qualitative analysis of textual and audiovisual data, allowing for coding, annotation, visualization, and querying.
-What are some new features of NVivo 12?,NVivo 12 includes auto-coding, improved navigation, transcription services, SPSS export, and codebook import/export capabilities.
-How does coding work in NVivo?,Coding involves tagging data into nodes to categorize themes, relationships, or sentiments using inductive or deductive approaches.
-What query options does NVivo offer?,NVivo includes text search, word frequency, coding, matrix coding, crosstab, compound, coding comparison, and group queries.
-What is R and how is it used?,R is a free, open-source statistical software for data analysis, graphics, and statistical computing, available via RStudio or Athena.
-Where can I learn R?,Resources include R manuals, videos, online courses (Coursera, Udemy), R-bloggers, and the R Journal.
-What are some topics covered in R tutorials?,R tutorials cover statistical functions, graphics, data manipulation, time series, survival analysis, and more.
-What is Jamovi and who is it for?,Jamovi is free, open-source statistical software based on R with a GUI similar to SPSS, suitable for Windows, Mac, and Linux users.
-What resources are available for learning Jamovi?,Users can access Jamovi tutorials from Datalab, the user guide, and video tutorials from FreeCodeCamp.
-What is a systematic review?,A systematic review is a research method that summarizes results from available healthcare studies using rigorous, transparent, and reproducible methods.
-How does a systematic review differ from a traditional literature review?,Systematic reviews use structured, transparent methods, while traditional reviews are more narrative and may lack reproducibility.
-What are the key steps in conducting a systematic review?,Steps include formulating a research question, writing a protocol, searching literature, screening studies, assessing quality, extracting and analyzing data, and reporting results.
-What is a scoping review?,A scoping review maps key concepts, types of evidence, and gaps in research without assessing the quality of included studies.
-What is a rapid review?,A rapid review is a form of evidence synthesis that uses streamlined methods to produce evidence quickly.
-How do I develop a research question for a systematic review?,Use the PICO (Population, Intervention, Comparison, Outcome) framework to structure your question.
-What are inclusion and exclusion criteria in a systematic review?,These are predefined rules to determine which studies are included or excluded from the review.
-What is the purpose of a systematic review protocol?,A protocol outlines the planned methods and minimizes bias, and can be registered on platforms like PROSPERO.
-What databases should I search for a systematic review?,Common databases include PubMed, Embase, Cochrane Library, CINAHL, and Scopus.
-What tools are used for managing references and screening studies?,Tools include EndNote for references and Covidence for screening, data extraction, and quality assessment.
-How is quality assessed in a systematic review?,Quality is assessed using tools like the Cochrane Risk of Bias tool or other domain-based instruments.
-What is data extraction in a systematic review?,Data extraction involves collecting key information from included studies for analysis.
-What synthesis methods are used in systematic reviews?,Synthesis may include narrative synthesis, meta-analysis, or thematic analysis depending on study type.
-How do I report the results of a systematic review?,Use the PRISMA guidelines to ensure comprehensive and transparent reporting.
-What is PRISMA?,PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) provides guidelines for reporting systematic reviews.
-What is Web of Science?,Web of Science is a platform of literature search databases designed to support scientific and scholarly research.
-How can I register for Web of Science?,Click on the “Sign In” button on the Web of Science landing page and select “Register.” The same credentials work for EndNote online, ResearcherID, and InCites.
-What can I do with a Web of Science ResearcherID?,You can track publications, citations, peer reviews, and editorial work, and generate reports for promotion or funding. It also aids in author name disambiguation.
-How can I create a Publons profile?,Visit publons.com, click “Create a Publons Profile,” and register using the same email as your Web of Science or EndNote account. Link your ORCID to import publications.
-How does Web of Science help find collaborators?,Use the “Analyze Results” tool on search results to identify top authors and institutions active in your research area.
-How can I find highly cited journals in my field using Web of Science?,Use Journal Citation Reports (JCR) to search by category, quartile, or open access status to identify journals suitable for manuscript submission.
-What do JCR quartiles mean?,JCR quartiles classify journals by impact: Q1 (top 25%), Q2 (25–50%), Q3 (50–75%), and Q4 (bottom 25%) based on Journal Impact Factor.
-How do I find which journals publish the most papers on my topic?,Search your topic in Web of Science, then use the “Analyze Results” tool and select “Source Titles” to identify the most active journals.
-What are the benefits of linking ORCID with Publons?,Linking ORCID and Publons enables automatic syncing of publications and verified peer review records, enhancing your research visibility.
-How can I identify potential journals to publish in?,You can identify journals by searching where similar articles have been published and using tools like JANE, Elsevier Journal Finder, Springer Journal Selector, and WoS Manuscript Matcher.
-What resources can help me evaluate journal acceptance rates?,Use Cabell’s Scholarly Analytics or check the journal’s website. Contact the editor directly if acceptance rates are not listed.
-How can I assess the credibility of a journal?,Use the Think. Check. Submit. checklist, evaluate impact factors, peer review practices, and editorial boards, and confirm listings in directories like DOAJ.
-What are predatory journals?,Predatory journals exploit the open access model by charging fees without providing legitimate editorial or peer review services.
-How can I identify predatory publishers?,Watch for fast publication promises, fake impact factors, unknown editorial boards, poor-quality publications, and missing contact details.
-What is a predatory conference?,These events solicit participation through spam, charge fees, and often lack credible speakers or proper organization.
-What tools can help avoid predatory publishing?,Use Think. Check. Submit., Be iNFORMEd checklist, and directories like DOAJ and Quality Open Access Market.
-What are journal impact factors and how are they calculated?,Impact Factor = citations in a year to items published in the previous two years ÷ number of citable items. Provided by Journal Citation Reports (JCR).
-What are alternative journal metrics to Impact Factor?,Alternatives include CiteScore, SJR (SCImago Journal Rank), SNIP (Source Normalized Impact per Paper), and Eigenfactor.
-What does the h-index measure?,The h-index measures an author's productivity and citation impact. Available via Scopus, Web of Science, and Google Scholar.
-What is the i10-index?,Used only by Google Scholar, it counts the number of publications with at least 10 citations.
-What is Gold Open Access?,Entire journals are open access and typically charge Article Processing Charges (APCs) to authors.
-What is Hybrid Open Access?,Subscription-based journals offer the option for individual articles to be open access via APCs.
-What are some reputable open access initiatives for books?,Radical Open Access, Knowledge Unlatched, and TOME are notable OA book initiatives.
-What organizations promote publishing standards and ethics?,DOAJ, COPE, OASPA, ROAD.ISSN.org, and WAME promote ethical publishing practices.
-Who can I contact for help with publishing decisions?,Contact your Research Support Librarian or use the guide’s contact details for assistance.
-What is a literature review?,A literature review systematically analyzes scholarly writings related to a specific research question to provide background, show correspondence with the topic, and support further research.
-What types of projects require a literature review?,Projects may include honors papers, capstone projects, theses, dissertations, research articles, grant proposals, and evidence-based practice reports.
-What is not considered a literature review?,A literature review is not an annotated bibliography or a research paper supporting one side; it must critically analyze and reflect all sides of the argument.
-Why is a literature review important?,It provides background, shows significance, identifies gaps, challenges assumptions, explores themes, and suggests future research directions.
-How do I define a good research question for a literature review?,Choose a topic that's not too broad or narrow, conduct preliminary searches, and use frameworks like PICO, SPICE, or ECLIPSE to define key concepts.
-What are the key elements of a literature review?,Discuss the theory, explain the methodology used in the research, and identify gaps that your research will address.
-What steps are involved in framing a search strategy?,Identify main concepts, conduct a keyword search, find subject headings (like MeSH), and perform a refined search using those terms.
-What is the benefit of using subject headings in searches?,Subject headings improve relevance and precision by using database-specific controlled vocabulary like MeSH in Medline or CINAHL Headings.
-How should I organize search terms?,Break the research question into 2–4 concepts and use synonyms, plural/singular forms, acronyms, and subject headings for each.
-What are good databases to search for published literature?,Recommended databases include Cochrane Library, Medline, Web of Knowledge, and SCOPUS.
-What are some subject-specific resources?,Resources include CINAHL Plus (nursing), PsycInfo (psychology), and Health Research Premium Collection.
-What is grey literature and why is it important?,Grey literature includes non-indexed sources like reports, theses, and policies. It reduces publication bias in research.
-Where can I find grey literature?,Sources include OpenGrey, NLM resources (e.g., HSRProj), OpenDOAR, Bielefeld BASE, RIAN, Lenus, and the RCSI Repository.
-Where can I find theses for literature reviews?,Use ProQuest Dissertations & Theses, EThOS, and DART-Europe for international and European theses.
-How should a literature review be structured?,Include an introduction, main body (organized by theme, chronology, or methodology), and a conclusion summarizing gaps and future directions.
-What should I avoid in writing a literature review?,Avoid biased views, jargon, plagiarism, misrepresentation, and overly definitive statements. Use objective, clear language.
-What referencing styles are recommended?,The guide supports Harvard and Vancouver referencing styles.
-What tools can help manage references and reviews?,Tools include EndNote (reference management), Covidence (systematic reviews), PRISMA, Abstrackr, and DistillerSR.
-Are there any research support services available in addition to RtoP?,Yes, the library offers additional support such as one-on-one research consultations, guidance on systematic reviews, referencing help (EndNote), and assistance with journal selection.
-Can the RtoP  program be accessed remotely or only on campus?,RtoP is fully online and self-paced, allowing researchers to access content remotely at their convenience.
-How is RtoP different from other online research courses?,RtoP is specifically tailored for healthcare professionals and is developed in collaboration with BMJ and the University of California, San Francisco, offering a blend of global publishing expertise and academic credibility.
-When should I consider doing a systematic review?,Systematic reviews are best suited when there is a well-defined research question and a need to summarize all existing evidence to inform practice, policy, or further research.
-Does the library provide support for conducting systematic reviews?,Yes, the library offers training on search strategies, citation management, and tools like Covidence. We also help with database selection and PRISMA documentation.
-Can I collaborate with others on Covidence?,Yes, you can invite team members to work collaboratively on the same project, assign roles, and track progress across stages.
-Does the library offer training or help with Covidence?,Yes, we provide one-on-one support, group training, and guidance on using Covidence efficiently, especially for title/abstract screening and PRISMA reporting.
-What is the role of Creative Commons licenses in open access publishing?,Creative Commons licenses define how others can use your work. Most OA journals use CC BY, which allows reuse with attribution, supporting wider dissemination.
-What are the different types of Creative Commons licenses and how do they vary?,Creative Commons licenses range from the most open (CC BY) to more restrictive (e.g., CC BY-NC-ND). They vary by allowing or restricting commercial use, modifications, and attribution requirements.
-Is it mandatory to include a Creative Commons license when publishing in an open access journal?,Not always. Some journals apply a default license, while others allow authors to choose. Authors should check the journal's OA policy.
-Can Creative Commons licenses be used for non-academic content like photos and videos?,Yes, CC licenses are widely used for images, videos, music, and educational materials, not just academic content.
-What is academic integrity?,Academic integrity is the commitment to honesty, ethical behavior, and respect for others’ work in all academic activities, including research, assessments, and learning.
-Why is academic integrity important at RCSI?,Academic integrity is essential at RCSI as it reflects the core values of professionalism, honesty, and accountability. It ensures the credibility of academic work, supports a fair learning environment, and safeguards the reputation of both students and the institution.
-What are the core values of academic integrity at RCSI?,Responsibility, Respect, Fairness, Honesty, Trust, and Courage.
-What is the Academic Integrity Module (AIM)?,AIM is a mandatory online module that all undergraduate and postgraduate students must complete in their first semester.
-What constitutes academic misconduct?,Academic misconduct includes plagiarism, cheating, falsification, contract cheating, impersonation, collusion, and other dishonest academic behaviors.
-What is plagiarism and how can it be avoided?,Plagiarism is using someone else’s work without acknowledgment. Avoid it by citing sources properly, paraphrasing with attribution, and using Turnitin.
-What is contract cheating?,Contract cheating involves getting another person or service to complete academic work on your behalf, often for payment.
-How can students avoid contract cheating?,Plan your schedule, seek help from professors or librarians, and use institutional support resources.
-What is falsification in academic work?,Falsification involves misrepresenting or fabricating information or research data for academic credit.
-How can I avoid falsification?,Manage time well, complete assignments independently, and understand proper citation practices.
-What is self-plagiarism?,Self-plagiarism is submitting the same work for more than one course without permission.
-How can I avoid self-plagiarism?,Cite your own previous work, ensure new content is original, and disclose reused material to instructors or editors.
-What is impersonation in academic settings?,Impersonation includes taking a test for someone else or having someone take a test on your behalf.
-How can I avoid impersonation issues?,Prepare in advance, attend your own assessments, and seek help if you're struggling.
-What is collusion in academic work?,Collusion is a form of academic misconduct involving unauthorized collaboration between students. It occurs when one student allows another to copy, use, or significantly edit their work, presenting it as their own, which undermines independent learning and assessment integrity.
-How can I avoid collusion?,Avoid sharing work unless instructed to collaborate, and do not allow others to proofread your assignments unless approved.
-What are students’ responsibilities regarding academic integrity?,Students must ensure submitted work is their own, cite all sources, and be honest in representing their contributions.
-What are the consequences of academic misconduct at RCSI?,Consequences range from warnings (Level 1), formal records (Level 2), to disciplinary hearings (Level 3) based on the severity of the misconduct.
-Who can I contact for support regarding academic integrity?,Contact Dr. Bindhu Nair at bnair@rcsi-mub.com or Dr. Suchita Dsilva at sdsilva@rcsi-mub.com.
-What is referencing?,Referencing is a method used to show you’ve conducted appropriate reading and research by acknowledging sources when you quote, copy, paraphrase, or summarize others' work.
-Why do I need to reference?,Referencing enhances your writing, strengthens academic arguments, shows your information sources, and allows readers to verify your work.
-What is the Vancouver referencing style?,Vancouver Style is a numbered referencing system used primarily in medicine and science, following rules from the ICMJE and maintained by the U.S. National Library of Medicine.
-How are in-text citations formatted in Vancouver style?,In-text citations appear as numbers in superscript or in parentheses, corresponding to a numbered reference list.
-How is the Vancouver reference list organized?,The reference list is numbered sequentially in the order citations appear in the text and includes only cited works.
-Do I use the same reference number for repeat citations?,Yes, once a source is cited, the same number is reused in all subsequent citations.
-What should I do if there is no publication date?,Include as much information as possible; consult referencing guidelines for cases with missing dates.
-How do I cite a source with no identifiable author?,Use the title of the source in place of the author in the reference list.
-What is the difference between a reference list and a bibliography?,A reference list includes only cited works; a bibliography may include all consulted materials, cited or not.
-Should I reference lecture notes?,This depends on your faculty’s requirements—check their policy or ask your instructor.
-How do I cite multiple references at once in Vancouver style?,Use hyphens for inclusive numbers (e.g., 3-6) and commas for non-sequential numbers (e.g., 3,9,17).
-What are examples of sources referenced in Vancouver style?,Sources include books, journal articles, web pages, conference papers, theses, emails, interviews, podcasts, and more.
-How should I cite web pages or websites?,Cite the title, responsible organization, publication date (if available), and full URL. Format depends on whether it's a professional or general source.
-Do I need to cite images and figures?,Yes, cite all images, whether from print or online sources, with appropriate details.
-How do I cite content from apps like UpToDate or DynaMed?,Include the app name, publisher, year, and access date. Specific formats are available for each app type.
-What is the purpose of the Library Support Guides for Research Summer School participants?,The guides help participants learn literature search strategies, choose search terms, and access different scholarly sources.
-What is Primo?,Primo is the discovery tool at RCSI Bahrain Library that enables users to search books, articles, and other resources in one location.
-How can I access PubMed?,PubMed can be accessed through the Library Support Guide and includes instructions on how to search and save searches.
-What databases are accessible via the library portal?,Accessible databases include MEDLINE, Health Research Premium, Science Direct, Scopus, and Web of Science.
-What is Covidence used for?,Covidence is a tool designed to streamline systematic reviews by assisting healthcare professionals and researchers in evidence synthesis.
-What is PRISMA?,PRISMA provides a minimum set of items for reporting in literature reviews, systematic reviews, and meta-analyses.
-What tool can help in writing a literature review?,The guide includes a Literature Review Matrix (Excel format) to help compare and contrast findings in the literature.
-What is PROSPERO?,PROSPERO is an international database of prospectively registered systematic reviews in health and social care.
-What resources are available for global health statistics?,Resources include the WHO Global Health Observatory, CDC Data & Statistics, and the National Center for Health Statistics.
-What referencing styles are supported?,The guide supports Harvard and Vancouver referencing styles.
-What tools are available for managing references?,Reference management tools include EndNote 20 for Mac and Mendeley.
-Where can I find laboratory research protocols?,Protocol resources include Cold Spring Harbor Protocols, PLoS ONE, Springer/Nature Protocols, Wiley-Blackwell Current Protocols, and WHO IRIS laboratory manuals.
+question,answer,,,,,,,,,
+What are the library opening hours?,"The library is open Sunday to Thursday: 7:30 AM - 12:00 AM, Friday & Saturday: 10:00 AM - 12:00 AM. Hours may vary during holidays and exam periods.",,,,,,,,,
+What should I do if I'm facing login issues with library resources?,"For login issues with library resources, please contact IT support at helpdesk@rcsi-mub.com or visit the library information desk. You can also use the chat support at libchat.rcsi-mub.com.",,,,,,,,,
+How can I renew my borrowed books?,"Books can be renewed online through your library account at Primo (https://rcsibahrain.primo.exlibrisgroup.com/discovery/search?vid=973RCSIB_INST:RCSIB&lang=en) or by contacting the information desk at +973 16036000. Standard loan period is 2 weeks for students, 4 weeks for faculty.",,,,,,,,,
+How do I request an interlibrary loan?,Interlibrary loan requests can be made through the Primo (https://rcsibahrain.primo.exlibrisgroup.com/discovery/search?vid=973RCSIB_INST:RCSIB&lang=en).,,,,,,,,,
+How do I book a study room?,Study rooms can be booked through the LRC room booking system at https://lrcroombookings.rcsi-mub.com. Group study rooms accommodate 4-8 people. Maximum booking is 2 hours per day per person.,,,,,,,,,
+How do I access library databases?,"Access to databases is available through the library A-Z databases website (https://library.rcsi-mub.com/az/databases) with your RCSI-MUB student or faculty credentials. We provide access to PubMed, CINAHL, Cochrane Library, and many other medical and scientific databases.",,,,,,,,,
+Where can I get help with citations?,"Citation assistance is available through library guides and by appointment with librarians. We support APA, Harvard, Vancouver, and other citation styles. Contact us at library@rcsi-mub.com.",,,,,,,,,
+Is printing available in the library?,Printer is available within the library but managed by Xerox. Please check for more details with the Xerox office outside the library.,,,,,,,,,
+How do I connect to WiFi in the library?,WiFi is available throughout the library. Connect to 'RCSI-Staff' or 'RCSI-Student' using your RCSI student/staff credentials.,,,,,,,,,
+Are there computers available in the library?,Computer workstations are available within the library. Log in with your RCSI-MUB credentials.,,,,,,,,,
+Where are the group study areas located?,Group study rooms are collaborative spaces where discussion is allowed. Silent study areas are on the third floor.,,,,,,,,,
+How do I search the library catalog?,"Search the library catalog at https://rcsibahrain.primo.exlibrisgroup.com/discovery/search?vid=973RCSIB_INST:RCSIB&lang=en. This includes articles, books, journals, databases, and other library resources.",,,,,,,,,
+What reference services are available?,"Librarians are available Sunday-Thursday 8:00 AM - 4:00 PM for research assistance, database training, and literature search support.",,,,,,,,,
+What are the overdue fine policies?,Overdue fines are 0.100 BD per day per item. Items overdue for more than 30 days are considered lost and charged replacement cost plus processing fee.,,,,,,,,,
+How do I access library resources remotely?,Access library resources from off-campus using your RCSI-MUB credentials. VPN is not required for most databases as we have embedded EZproxy link within Off-campus link options. Use your RCSI credentials if prompted for login. Contact IT support for password issues.,,,,,,,,,
+Can I take a library tour?,Library orientation tours are available for new students and faculty. Contact library@rcsi-mub.com to schedule a tour or training session.,,,,,,,,,
+What research support does the library offer?,"Research support includes literature searching, database training, citation management, and research strategy consultation. Book appointments with librarians.",,,,,,,,,
+What specialized medical resources are available?,"Specialized medical resources include clinical guidelines, drug information, anatomy atlases, and medical images. Ask reference librarians for assistance.",,,,,,,,,
+Can I access past theses and dissertations?,Theses and dissertations are available in the library for consultation. Special collections include past RCSI-MUB theses.,,,,,,,,,
+How can I contact the library?,"Library contact: +973 16036000, librarian@rcsi-mub.com, https://library.rcsi-mub.com. Chat support: https://libchat.rcsi-mub.com. Address: LLRC, RCSI Medical University of Bahrain, Busaiteen, Bahrain.",,,,,,,,,
+What is the Research to Publication (RtoP) program?,Research to Publication is a research methodology and publishing program designed for doctors and healthcare researchers, developed by BMJ in collaboration with the University of California, San Francisco (UCSF).,,,,,,,
+What does the RtoP program offer?,The RtoP program includes 8 multimedia courses that guide learners through the entire research process—from study design to publication in an international journal.,,,,,,,,,
+Who provides the instruction in the RtoP program?,The program is led by BMJ research editors and UCSF academics.,,,,,,,,,
+What skills does RtoP aim to teach?,RtoP helps learners acquire skills to conduct healthcare research and address challenges related to publishing in international journals.,,,,,,,,,
+How many courses and modules are included in the RtoP program?,The program consists of 8 courses and 52 modules, offering over 200 hours of learning.,,,,,,,,
+How can I access the RtoP program?,You can access the Research to Publication program through the library portal.,,,,,,,,,
+What do I need to register for the RtoP program?,You need to register your account using your RCSI email address.,,,,,,,,,
+What are the benefits of completing the RtoP program?,Benefits include improving research quality, advancing your career through publication, self-paced learning, understanding barriers to publication, contributing to better patient outcomes, and receiving a certificate of completion for each module.,,,,
+Do I receive certification for the RtoP modules?,Yes, you receive a certificate of completion from BMJ and UCSF for every module passed.,,,,,,,,
+What is Covidence?,Covidence is a web-based platform designed to streamline the process of conducting a comprehensive literature review, particularly for systematic reviews.,,,,,,,,
+Who typically uses Covidence?,Covidence is primarily used by researchers conducting systematic reviews and is especially useful in health sciences, though it's suitable for any evidence-based academic discipline.,,,,,,,,
+How can I create a Covidence account through RCSI Bahrain?,Visit the RCSI Bahrain Covidence Sign Up page, enter your name and RCSI email, and follow the email invitation to create an account.,,,,,,,
+Can I use Covidence if I'm not affiliated with RCSI Bahrain?,You can serve as a reviewer, but only RCSI Bahrain affiliates can create new reviews under the institutional license.,,,,,,,,
+What can I do with Covidence?,Covidence allows you to conduct citation screening, full-text review, risk of bias assessment, data extraction, and data export, all within a single platform.,,,,
+How do I start a new review in Covidence?,After signing in, click Create new review on the home page, select RCSI Bahrain as your organization, and input your review details.,,,,,,
+How do I adjust review settings in Covidence?,Go to the review dashboard, click “Settings,” and under Review Settings, you can change the title, reviewer numbers, and criteria.,,,,
+How do I add reviewers to a Covidence project?,Add reviewers via the Settings menu using their name and email; they must accept the invitation via email to join.,,,,,,,,,
+How do I customize screening criteria and exclusion reasons?,Navigate to Criteria & exclusion reasons in Settings to manage screening criteria, exclusion reasons, and highlights.,,,,,,,
+How do I import references into Covidence?,Click Import on your Review Summary page and upload references in EndNote XML, PubMed, or RIS text formats.,,,,,,,
+What is the file size and reference limit for imports?,You can import files up to 50 MB and 15,000 references per file.,,,,,,,,
+How does Covidence handle duplicate references?,Covidence automatically checks for and removes duplicates during import, which are recorded in the PRISMA chart.,,,,,,,,
+Can I undo an import in Covidence?,Yes, as long as no articles have been screened, you can undo an import via the Manage Imports menu.,,,,,,,
+How do I screen references in Covidence?,Use the Screen tab to assess title/abstracts or full texts, voting Yes, No, or Maybe. Votes determine progression to next review stages.,,,,,,
+How are screening conflicts resolved?,Conflicting votes are resolved on the Resolve Conflicts page, with blind voting to minimize bias.,,,,,,,,
+What is the PRISMA diagram in Covidence?,The PRISMA diagram is auto-populated and updates as you progress, including duplicates and reasons for full-text exclusions.,,,,,,,,
+How do I assess study quality in Covidence?,Use built-in or customized Quality Assessment templates, such as Cochrane Risk of Bias, after full-text review.,,,,,,,
+Can I use multiple tools in one review for Quality Assessment?,No, only one QA tool can be used per review, though you can mix domains from multiple tools within that form.,,,,,,,
+What is the data extraction process in Covidence?,After QA, extract data using a form that follows the PICO format. This form becomes the template for other studies.,,,,,,,,
+How do I finalize data extraction?,After two reviewers extract data, compare and reach consensus—this consensus data is used for exports.,,,,,,,,
+How do I tag studies or references in Covidence?,Use predefined or custom tags in the Study Tags section or during review, which can also be used as filters.,,,,,,,,
+What default tags are available in Covidence?,Covidence includes “Ongoing Study” and “Awaiting Classification” as default tags, which are counted in the PRISMA flowchart.,,,,,,,,
+Where can I find more help or training for Covidence?,Access Covidence webinars, YouTube videos, the Knowledge Base, or request consultations via bnair@rcsi-mub.com.,,,,,,
+What are impact measures in research?,Impact measures are quantitative indicators, such as bibliometrics, used to evaluate research outputs for grant applications, promotions, and to demonstrate the influence of research.,,,,,
+Why should I measure or track my research impact?,Measuring impact can support job applications, funding renewals, new funding requests, and show how your research is being used.,,,,,,
+What is bibliometrics?,Bibliometrics involves analyzing publication profiles and citations to assess a researcher's influence or impact.,,,,,,,,,
+What are common bibliometric indicators?,Impact factor and h-index are commonly used indicators in bibliometrics.,,,,,,,,,
+What is SciVal?,SciVal is a benchmarking tool using Scopus data to assess research performance, identify trends, and support strategic planning.,,,,,,,
+What can I do with SciVal?,You can benchmark performance, identify research trends and collaborators, and create reports for funding applications.,,,,,,,
+Why should I use multiple metrics instead of just one?,A range of metrics provides a fuller picture of research impact and should complement, not replace, peer review.,,,,,,,
+What are altmetrics?,Altmetrics track the early impact of research by monitoring social media, blogs, websites, and online reference managers.,,,,,,
+How do altmetrics complement traditional metrics?,They offer insights into the broader impact and engagement of research beyond academia and are available more quickly than traditional citations.,,,,,,,,,
+Where can I find altmetrics?,Altmetrics are often embedded in databases like Scopus, EBSCOhost, ScienceDirect, ProQuest, and in platforms such as PlumX and Altmetric.com.,,,,,
+What are some strengths of altmetrics?,Altmetrics are timely and diverse, capturing engagement with research outputs beyond academic articles.,,,,,,,,
+What is the Journal Impact Factor (IF)?,It is a measure of how often the average article in a journal is cited in a particular year.,,,,,,,,,
+Where can I find Journal Impact Factors?,Impact Factors are available through Journal Citation Reports (JCR), which covers about 7,500 journals.,,,,,,,
+How is Article Influence Score calculated?,It is derived by dividing the Eigenfactor by the number of articles in a journal, using a 5-year citation window.,,,,,,,,
+What are limitations of journal metrics like JIF and Eigenfactor?,They do not assess individual article quality, vary across disciplines, can be manipulated, and don't necessarily reflect an author's influence.,,,,,,
+Can journal metrics be compared across disciplines?,No, metrics like JIF and Eigenfactor should not be used to compare journals across different subject fields.,,,,,,,,
+Where can I learn more about impact metrics?,Resources include the Metrics Toolkit, Altmetric for Researchers, and the SPARC primer on article-level metrics.,,,,,,,
+What is the Journal Impact Factor (JIF)?,The Journal Impact Factor is a measure of how often the average article in a journal has been cited in a particular year, based on data from Journal Citation Reports (JCR).,,,,,,,,
+Where can I access Journal Impact Factors?,Impact Factors are available exclusively through Journal Citation Reports (JCR), accessible via Web of Science through the library portal.,,,,,,,,
+How is the Journal Impact Factor calculated?,JIF is calculated by averaging the number of citations received by articles published in a journal during the two preceding years.,,,,,,,,,
+How can I find top journals in my field?,Use bibliometric tools like JCR, CiteScore, EigenFactor, and Google Scholar Metrics. Rankings can vary by tool, metric, and subject scope.,,,,
+What are some additional tools for journal rankings?,Tools include JCR, EigenFactor, CiteScore, Google Scholar Metrics, and curated journal lists like ERIH PLUS, ABDC, and ABS Journal Quality Guide.,,,
+What is CiteScore?,CiteScore measures the average citations per document a title receives over a 3-year period, using data from Scopus.,,,,,,,,
+How does CiteScore differ from Impact Factor?,CiteScore uses a 3-year window and includes all document types indexed in Scopus, while JIF uses a 2-year window and includes only citable documents.,,,,,,,,
+Where can I find CiteScore information?,CiteScores are available via Scopus Journal Metrics and cover over 22,000 titles across disciplines.,,,,,,,,
+What is the SNIP metric?,SNIP (Source Normalized Impact per Paper) measures citation impact by considering citation practices of different fields, enabling field-normalized comparisons.,,,,,,,,
+What is SJR?,SJR (SCImago Journal Rank) uses Scopus data to assess journal prestige by giving more weight to citations from high-ranking journals.,,,,,,,,,
+What is the EigenFactor score?,The EigenFactor score ranks journals based on incoming citations, with more weight given to citations from influential journals and excluding self-citations.,,,,,,,,
+How is the EigenFactor score calculated?,It is based on a network of citations, adjusted for time researchers spend reading the journal, and uses a 5-year citation window.,,,,,,,
+Where can I find EigenFactor scores?,EigenFactor scores are available via Journal Citation Reports and the Eigenfactor website.,,,,,,,,,
+How does EigenFactor differ from Impact Factor?,EigenFactor considers citation source quality, removes self-citations, and normalizes across disciplines, unlike JIF which counts all citations equally.,,,,,,
+What is the purpose of journal rating lists like ERIH PLUS or ABDC?,These lists offer additional guidance on journal quality, especially in fields where bibliometric scores may not be sufficient.,,,,,,,,
+What is the purpose of the Library Research Support guide?,The guide is designed to direct RCSI Bahrain researchers to research-focused services and resources available through the Library.,,,,,,,,,
+What research support services are available to graduate students?,Graduate students can access support such as research consultations, systematic review guidance, managing references, and thesis/dissertation help.,,,,,,
+How can I get a research consultation?,Research consultation is available through the Library’s Research Support service. Use the contact form or LibChat to get started.,,,,,,,,,
+What tools are recommended for managing references?,The guide includes resources for using EndNote (Windows and Mac) and Mendeley to manage references.,,,,,,,,,
+What is Covidence and how is it used?,Covidence is listed as a tool for researchers and supports systematic reviews.,,,,,,,,,
+How can I keep up with new research in my field?,Use the Current Awareness Service and set up alerts in tools like PubMed and Scopus.,,,,,,,,,
+What citation styles are supported?,The guide supports citation styles such as Harvard and Vancouver.,,,,,,,,,
+Where can I find support for writing and citing?,Writing, citing, and creating resources are available, including guidance on citation styles, TurnItIn, plagiarism, and poster creation.,,,
+How can I avoid predatory publishing?,The guide provides information on identifying predatory journals and choosing reputable places to publish.,,,,,,,,,
+What is the Institutional Repository?,It is a platform provided for sharing research outputs openly.,,,,,,,,,
+How do I access research impact services?,Impact services include ORCiD, ResearcherID, Scopus Author Profile, and Google Scholar Citations Profile.,,,,,,
+Where can I find journal rankings and impact measures?,The guide includes links to tools and metrics for journal rankings and impact measures.,,,,,,,,,
+What should I know about copyright and fair use in publishing?,The guide includes resources on fair use, copyright permissions, and managing your own copyright.,,,,,,,
+How can I access specialized information resources?,Specialized resources are linked within the guide, such as PubMed, Web of Science, Google Scholar, and Research to Publication.,,,,,
+What is BrowZine?,BrowZine is a tool mentioned in the guide for inspiration and browsing scholarly journals.,,,,,,,,,
+What is Open Access?,Open Access is the free and unrestricted access to information, including journal articles, books, images, data, and other outputs, without financial, legal, or technical barriers.,
+Why is Open Access important?,Open Access promotes the global sharing of scholarly information and research, supporting unrestricted access to knowledge.,,,,,,,,
+What is Open Access Week?,Open Access Week is an annual international event held in the last week of October to promote discussions on reducing barriers to accessing research publications.,,,,,,,,,
+What events are scheduled for Open Access Week 2024?,Events include workshops, author meet-and-greets, panel discussions, and showcases from October 21–24,2024,,,,,
+What is the purpose of the Finding the Right Open-Access Journal workshop?,The workshop helps students navigate open-access publishing, understand journal metrics, and avoid predatory journals.,,,,,,,
+What is the Meet Our Authors event about?,It provides students a chance to learn about the open-access publishing experiences of authors.,,,,,,,,,
+What happens during the Research Without Borders panel discussion?,Students and staff share their experiences with the scientific publication process to inspire future open-access authors.,,,,,,,,,
+What is the Blueprint to Publishing event?,It showcases open-access publications authored by students and staff.,,,,,,,,,
+Where can I find more information about the Open Access Week theme?,Visit https://www.openaccessweek.org/ for current themes and additional information.,,,,,,,,,
+Who can I contact for more information about Open Access Week?,You can contact the library at librarian@rcsi-mub.com.,,,,,,,,,
+What does ORCID stand for?,ORCID stands for Open Researcher and Contributor Identifier.,,,,,,,,,
+Why should I register for an ORCID iD?,An ORCID iD distinguishes you from other researchers, improves recognition, reduces form-filling, and connects your research and affiliations throughout your career.,,,,,,
+How do I register for an ORCID iD?,Visit orcid.org/register and fill out the form, or register through your institutional credentials if available.,,,,,,,,
+How can I use my ORCID iD?,Include it when submitting publications, applying for grants, and on academic profiles to ensure your work is accurately attributed.,,,,,,,
+How do I add works to my ORCID profile?,You can add works by linking to databases, importing BibTeX files, or entering information manually.,,,,,,,
+Can I import citations into ORCID from other databases?,Yes, ORCID supports importing from databases such as Scopus, Web of Science, CrossRef, and MLA International Bibliography.,,,,,
+How do I control the visibility of my ORCID profile?,You can set visibility to Public, Trusted parties, or Private for different parts of your ORCID record.,,,,,,,
+How do I link my ORCID to other research tools?,Link your ORCID to Scopus, Web of Science, ResearcherID, figshare, and other services to import works and enhance visibility.,,,,,
+What should I include in my ORCID profile?,Add a biography, education, employment, funding details, keywords, and links to profiles like RCSI repository or ResearchGate.,,,,
+Can I have more than one ORCID iD?,No, you should only have one ORCID iD. If you have duplicates, remove the extra account via Account settings.,,,,,,,
+How do I assign someone else to manage my ORCID profile?,Under Account settings, designate a trusted individual who can access and edit your ORCID record.,,,,,,,,
+What are the benefits of making my ORCID profile public?,Making your profile public increases research visibility and allows integration with more systems.,,,,,,,,,
+Why should I add name variations to my ORCID profile?,Including name variations helps ensure all your publications are correctly attributed, especially if you've published under different names.,,,,,,,,
+How is ORCID used by publishers and institutions?,Many publishers and funders require or support ORCID iDs to streamline submission processes and ensure accurate attribution.,,,,,,,,,
+What is PubMed?,PubMed is part of Medline, a large biomedical database with over 30 million records, covering topics like medicine, nursing, pharmacy, health care, biology, and biochemistry.,,
+What subjects does PubMed cover?,PubMed includes articles from academic journals in medicine, nursing, pharmacy, health care, biology, and biochemistry.,,,,
+What is MeSH in PubMed?,MeSH (Medical Subject Headings) is the National Library of Medicine’s controlled vocabulary thesaurus used for indexing articles in PubMed.,,,,,,,,,
+How can MeSH terms help in PubMed searches?,MeSH terms help improve searches by allowing users to broaden or narrow search results more effectively.,,,,,,,,,
+How extensive is the MeSH vocabulary?,MeSH includes over 28,000 descriptors, more than 90,000 entry terms, and 240,000 supplementary concept records.,,,,
+How should I conduct a basic search in PubMed?,Use simple, specific keywords in the search box. PubMed also suggests terms based on common searches.,,,,,,,,
+What tools are available for searching in PubMed?,PubMed offers basic and advanced search options, and supports the use of MeSH for refined searching.,,,,,,,,
+Where can I find a tutorial on subject searching in PubMed?,A video tutorial on subject searching in PubMed is mentioned in the document.,,,,,,,,,
+What is the National Library of Medicine (NLM)?,The NLM is a U.S. institution that manages PubMed and MeSH, and regularly posts updates on its services and job opportunities.,,,,,,,,
+What is a ResearcherID?,ResearcherID is a unique identifier feature on Web of Science that links an author with their publications, regardless of name or affiliation variations.,,,,,,,,
+How can I create a ResearcherID?,You can register via the Web of Science or the ResearcherID website by logging in through the library portal.,,,,,,,,,
+How do I add publications to my ResearcherID profile?,Search for your articles in Web of Science by author, then select and add them to your ResearcherID profile.,,,,,,,,
+Is ResearcherID updated automatically?,No, you must manually keep your ResearcherID profile up to date.,,,,,,,,
+What is a Scopus Author ID?,Scopus Author ID is an 11-digit identifier automatically assigned in Scopus and ScienceDirect to group an author's publications.,,,,,,,,,
+What if I have multiple Scopus profiles?,You can request profile amendments or merge profiles if more than one has been created.,,,,,,,,,
+What content types does Scopus index?,Scopus indexes peer-reviewed journals, trade publications, open-access journals, books, conference papers, and patents from over 5,000 publishers.,,,
+Can I link my Scopus profile with ORCID?,Yes, you can connect your Scopus author profile to your ORCID from the Author details page in Scopus.,,,,,,,,
+What is Google Scholar Citations?,It is a feature that lets authors track citations to their work, check who is citing them, and compute citation metrics.,,,,,,,
+How do I create a Google Scholar profile?,Sign into Google with a Gmail account, go to Google Scholar, click My Citations, and follow prompts to add and manage your articles.,,,,,,
+Should I enable automatic updates in Google Scholar?,If you have a common name, it’s better to disable automatic updates to avoid incorrect article associations.,,,,,,,,
+What is scholarly communication?,Scholarly communication refers to the process of creating, evaluating, disseminating, and preserving scholarly work.,,,,,,
+What is Open Access (OA)?,Open Access is a publishing model that allows unrestricted online access to scholarly journal articles, books, data, and other outputs.,,,,,,
+How does Open Access differ from traditional publishing?,Traditional publishing relies on paid subscriptions for access, whereas Open Access is freely available to anyone online.,,,,,,,,
+What are Article Processing Charges (APCs)?,APCs are fees charged by some open access journals to publish an article. Not all OA journals charge APCs.,,,,,,,,,
+What is Green Open Access?,Green OA allows authors to deposit versions of their articles in institutional repositories like the RCSI Repository, possibly with embargoes.,,,,,,,,
+What is the RCSI Repository?,It is an institutional repository that collects, preserves, and disseminates RCSI’s research outputs online for open access.,,,,,,,
+Who mandates Open Access publishing at RCSI?,Funders such as Science Foundation Ireland (SFI), the Health Research Board (HRB), and the Irish Research Council (IRC) require OA publishing.,,,,,,,
+What is Plan S?,Plan S is an initiative by research funders to ensure that all publicly funded research is published in compliant open access journals or platforms.,,,,,,,,,
+What does Plan S require from researchers?,From January 2020, researchers must publish publicly funded research in compliant OA journals or platforms without embargoes.,,,,,,,,
+What are some major Open Access book initiatives?,Initiatives include Radical Open Access, Knowledge Unlatched, and TOME (Toward an Open Monograph Ecosystem).,,,,,,,
+What tools help determine article sharing rights?,Sherpa Romeo helps researchers understand publisher policies for archiving and sharing article versions.,,,,,,,,,
+What are the different article versions?,They include the Submitted Version (preprint), Accepted Version (postprint), and Published Version (version of record).,,,,,,,
+What is the SPARC Author Addendum?,It is a tool provided by SPARC to help authors retain rights to their work when signing publishing agreements.,,,,,,,,,
+What are the pros of publishing Open Access?,OA increases visibility, accessibility, discoverability, and author control over copyright.,,,,,,
+What are the cons of Open Access publishing?,Some OA journals charge APCs and there is a risk of predatory journals. OA is sometimes undervalued in tenure reviews.,,,,,,,,,
+What is the role of the RCSI Repository in OA?,It supports compliance with funder mandates, increases visibility, and archives institutional scholarly output.,,,,,,,
+How can I deposit research in the RCSI Repository?,Use the RIMS system to submit your work to the RCSI Repository for open access availability.,,,,,,,,,
+What is Scopus?,Scopus is the largest international abstract and citation database of peer-reviewed literature and quality web sources, indexing over 45.5 million records from 5,000 publishers.,,,,,,,
+What can I do with Scopus?,Scopus allows users to track citations, view h-index scores, analyze research trends, assess journals, manage research impact with ORCID, and identify collaborators or experts.,,,,
+How do I create a search alert in Scopus?,Perform a search, click “Set alert” on the results page, enter your email, choose frequency, select status, and click “Save” or “Set Alert.”,,,,
+How do I conduct a basic document search in Scopus?,Use the default 'Document' search to find records containing your terms in specific fields.,,,,,,,,,
+What is Advanced Search in Scopus?,Advanced Search lets you use field codes, Boolean and proximity operators to perform more precise queries.,,,,,,,,
+How can I exclude Medline records in Scopus searches?,Add AND NOT INDEX(medline) in your advanced search string.,,,,,,,,,
+What is an Affiliation Search in Scopus?,Affiliation Search finds documents and authors by institution. You can search using variations of an institution's name.,,,,,,,,,
+What is the Scopus Affiliation ID for RCSI Bahrain?,The Scopus Affiliation ID for RCSI Bahrain is 60107237.,,,,,,,,,
+How do I search for an author in Scopus?,Use the ‘Author Search’ tab, search by name or ORCID iD, and view their documents, citations, and profile details.,,,,,
+What is a Scopus Author Identifier?,It is a unique number assigned to each author to distinguish their works, especially in cases of name variations.,,,,,,,,
+Where can I find an author's Scopus ID?,Run a search, click on the author's name in the results, and find the ID under their name and affiliation.,,,,,,,
+How can I review documents in Scopus?,Click on a document title to see full details like citation info, metrics, references, and related documents.,,,,,,
+How do I export citations from Scopus?,Select the records, click “Export,” choose the desired format (e.g., EndNote, RefWorks), and confirm export options.,,,,
+What types of alerts can I create in Scopus?,Scopus supports Search Alerts, Document Citation Alerts, and Author Citation Alerts to notify users of updates via email.,,,,,,,
+How do I frame a search strategy for research?,Begin by identifying main concepts in your topic, conduct a keyword search, analyze relevant results, and refine using subject headings or database thesauri.,,,,,,
+What are subject headings in database searches?,Subject headings, like MeSH in Medline or CINAHL Headings in CINAHL, are standardized terms that improve search accuracy and relevance.,,,,,,,
+Why should I keep track of search terms?,Tracking terms prevents duplicate searches and helps refine strategy effectively.,,,,,,,,,
+What is Boolean search and how does it work?,Boolean search uses operators (AND, OR, NOT) to combine keywords and refine results.,,,,,,,
+How does the OR operator affect search results?,It broadens a search by retrieving results that contain any of the linked terms.,,,,,,,,,
+How does the AND operator affect search results?,It narrows a search by retrieving only records containing all linked terms.,,,,,,,,,
+How does the NOT operator work in database searches?,It excludes records containing a specified term, refining the search further.,,,,,,,,
+How do I perform a phrase search?,Enclose phrases in quotation marks (e.g., “hearing impaired”) to ensure words appear together in order.,,,,,,,,
+What is truncation in search strategies?,Truncation uses a symbol (commonly ) to find word variants with different endings (e.g., child retrieves child, children, childhood).,,,,,,
+What are wildcard symbols in database searching?,Wildcards like ?, # replace characters in a word to capture spelling variations (e.g., wom#n finds woman or women).,,,,,,,
+How does proximity searching work?,Proximity searching retrieves records with terms appearing close together, using operators like N (near) and W (within) with a number (e.g., dogs N5 cats).,,,,,,,
+What is the difference between NEAR and WITHIN in proximity searches?,NEAR retrieves terms in any order within a set number of words; WITHIN retrieves terms in a specific order within a set distance.,,,,,,,,,
+What COVID-19 publication databases are recommended?,Recommended sources include PubMed (COVID trending), WHO COVID-19 publications database, Europe PMC, and NEJM Journal Watch.,,,,,,
+Where can I find systematic reviews on COVID-19?,The EPPI Centre offers a living systematic map of COVID-19 evidence, categorizing articles from Embase and Medline.,,,,,,,,
+What are reliable preprint sources for COVID-19 research?,Preprint platforms include Europe PMC, BioRxiv, MedRxiv, SSRN, and arXiv.,,,,,
+What resources provide COVID-19 clinical trial data?,Use ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform for clinical studies on COVID-19.,,,,,,,,,
+Where can I find genomic data for COVID-19?,Genomic data is available from GISAID and the NLM’s SARS-CoV-2 Data Hub.,,,,,,,,,
+What funding sources are available for COVID-19 research?,Funding options include Crowdhelix Network, HRB COVID-19 Rapid Response Call, SFI/Enterprise Ireland/IDA COVID-19 initiatives, and European Commission tenders.,,,,,,
+What are recommended information sources for diabetes and metabolic disease research?,Resources include NEJM Journal Watch articles covering treatments and risks related to diabetes and metabolic disorders.,,,,,,,,,
+What are some top journals for cardiovascular and metabolic research?,Journals include Circulation, JACC, Circulation Research, European Heart Journal, Hypertension, and Stroke.,,,,
+What books are suggested for breast cancer research?,Recommended titles include Breast Cancer - Your Treatment Choices by Terry Priestman and Breast Cancer by Emma Pennery et al.,,,,,,,,,
+What are key sources for breast cancer research updates?,NEJM Journal Watch provides updates on chemotherapy effects, surgical strategies, and targeted treatments in breast cancer.,,,,,,,
+What is SPSS and what is it used for?,SPSS is a statistical software from IBM used for data collection and statistical analysis across various disciplines.,,,,,,,,,
+How is data entered in SPSS?,Data can be input using Data View and edited in Variable View; the interface differs slightly between Mac and PC versions.,,,,,,,,,
+What types of statistical tests can be performed in SPSS?,SPSS supports descriptive statistics, T-tests, chi-square, regression, correlation, and ANOVA.,,,,
+What learning resources are available for SPSS?,Recommended books include Discovering Statistics Using IBM SPSS Statistics by Andy Field and SPSS Survival Manual by Julie Pallant.,,,,,,,,,
+What is NVivo used for?,NVivo is software for qualitative analysis of textual and audiovisual data, allowing for coding, annotation, visualization, and querying.,,,,,
+What are some new features of NVivo 12?,NVivo 12 includes auto-coding, improved navigation, transcription services, SPSS export, and codebook import/export capabilities.,,,,,
+How does coding work in NVivo?,Coding involves tagging data into nodes to categorize themes, relationships, or sentiments using inductive or deductive approaches.,,,,,,,
+What query options does NVivo offer?,NVivo includes text search, word frequency, coding, matrix coding, crosstab, compound, coding comparison, and group queries.,,
+What is R and how is it used?,R is a free, open-source statistical software for data analysis, graphics, and statistical computing, available via RStudio or Athena.,,,,,
+Where can I learn R?,Resources include R manuals, videos, online courses (Coursera, Udemy), R-bloggers, and the R Journal.,,,,
+What are some topics covered in R tutorials?,R tutorials cover statistical functions, graphics, data manipulation, time series, survival analysis, and more.,,,,
+What is Jamovi and who is it for?,Jamovi is free, open-source statistical software based on R with a GUI similar to SPSS, suitable for Windows, Mac, and Linux users.,,,,,
+What resources are available for learning Jamovi?,Users can access Jamovi tutorials from Datalab, the user guide, and video tutorials from FreeCodeCamp.,,,,,,,
+What is a systematic review?,A systematic review is a research method that summarizes results from available healthcare studies using rigorous, transparent, and reproducible methods.,,,,,,,
+How does a systematic review differ from a traditional literature review?,Systematic reviews use structured, transparent methods, while traditional reviews are more narrative and may lack reproducibility.,,,,,,,
+What are the key steps in conducting a systematic review?,Steps include formulating a research question, writing a protocol, searching literature, screening studies, assessing quality, extracting and analyzing data, and reporting results.,,,
+What is a scoping review?,A scoping review maps key concepts, types of evidence, and gaps in research without assessing the quality of included studies.,,,,,,,
+What is a rapid review?,A rapid review is a form of evidence synthesis that uses streamlined methods to produce evidence quickly.,,,,,,,,,
+How do I develop a research question for a systematic review?,Use the PICO (Population, Intervention, Comparison, Outcome) framework to structure your question.,,,,,,
+What are inclusion and exclusion criteria in a systematic review?,These are predefined rules to determine which studies are included or excluded from the review.,,,,,,,,,
+What is the purpose of a systematic review protocol?,A protocol outlines the planned methods and minimizes bias, and can be registered on platforms like PROSPERO.,,,,,,,,
+What databases should I search for a systematic review?,Common databases include PubMed, Embase, Cochrane Library, CINAHL, and Scopus.,,,,,
+What tools are used for managing references and screening studies?,Tools include EndNote for references and Covidence for screening, data extraction, and quality assessment.,,,,,,,
+How is quality assessed in a systematic review?,Quality is assessed using tools like the Cochrane Risk of Bias tool or other domain-based instruments.,,,,,,,,,
+What is data extraction in a systematic review?,Data extraction involves collecting key information from included studies for analysis.,,,,,,,,,
+What synthesis methods are used in systematic reviews?,Synthesis may include narrative synthesis, meta-analysis, or thematic analysis depending on study type.,,,,,,,
+How do I report the results of a systematic review?,Use the PRISMA guidelines to ensure comprehensive and transparent reporting.,,,,,,,,,
+What is PRISMA?,PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) provides guidelines for reporting systematic reviews.,,,,,,,,,
+What is Web of Science?,Web of Science is a platform of literature search databases designed to support scientific and scholarly research.,,,,,,,,,
+How can I register for Web of Science?,Click on the “Sign In” button on the Web of Science landing page and select “Register.” The same credentials work for EndNote online, ResearcherID, and InCites.,,,,,,,
+What can I do with a Web of Science ResearcherID?,You can track publications, citations, peer reviews, and editorial work, and generate reports for promotion or funding. It also aids in author name disambiguation.,,,,,
+How can I create a Publons profile?,Visit publons.com, click “Create a Publons Profile,” and register using the same email as your Web of Science or EndNote account. Link your ORCID to import publications.,,,,,,,
+How does Web of Science help find collaborators?,Use the “Analyze Results” tool on search results to identify top authors and institutions active in your research area.,,,,,,,,,
+How can I find highly cited journals in my field using Web of Science?,Use Journal Citation Reports (JCR) to search by category, quartile, or open access status to identify journals suitable for manuscript submission.,,,,,,,
+What do JCR quartiles mean?,JCR quartiles classify journals by impact: Q1 (top 25%), Q2 (25–50%), Q3 (50–75%), and Q4 (bottom 25%) based on Journal Impact Factor.,,,,,,
+How do I find which journals publish the most papers on my topic?,Search your topic in Web of Science, then use the “Analyze Results” tool and select “Source Titles” to identify the most active journals.,,,,,,,,
+What are the benefits of linking ORCID with Publons?,Linking ORCID and Publons enables automatic syncing of publications and verified peer review records, enhancing your research visibility.,,,,,,,,
+How can I identify potential journals to publish in?,You can identify journals by searching where similar articles have been published and using tools like JANE, Elsevier Journal Finder, Springer Journal Selector, and WoS Manuscript Matcher.,,,,,,
+What resources can help me evaluate journal acceptance rates?,Use Cabell’s Scholarly Analytics or check the journal’s website. Contact the editor directly if acceptance rates are not listed.,,,,,,,,,
+How can I assess the credibility of a journal?,Use the Think. Check. Submit. checklist, evaluate impact factors, peer review practices, and editorial boards, and confirm listings in directories like DOAJ.,,,,,
+What are predatory journals?,Predatory journals exploit the open access model by charging fees without providing legitimate editorial or peer review services.,,,,,,,,,
+How can I identify predatory publishers?,Watch for fast publication promises, fake impact factors, unknown editorial boards, poor-quality publications, and missing contact details.,,,,,
+What is a predatory conference?,These events solicit participation through spam, charge fees, and often lack credible speakers or proper organization.,,,,,,,
+What tools can help avoid predatory publishing?,Use Think. Check. Submit., Be iNFORMEd checklist, and directories like DOAJ and Quality Open Access Market.,,,,,,,
+What are journal impact factors and how are they calculated?,Impact Factor = citations in a year to items published in the previous two years ÷ number of citable items. Provided by Journal Citation Reports (JCR).,,,,,,,,,
+What are alternative journal metrics to Impact Factor?,Alternatives include CiteScore, SJR (SCImago Journal Rank), SNIP (Source Normalized Impact per Paper), and Eigenfactor.,,,,,,
+What does the h-index measure?,The h-index measures an author's productivity and citation impact. Available via Scopus, Web of Science, and Google Scholar.,,,,,,,
+What is the i10-index?,Used only by Google Scholar, it counts the number of publications with at least 10 citations.,,,,,,,,
+What is Gold Open Access?,Entire journals are open access and typically charge Article Processing Charges (APCs) to authors.,,,,,,,,,
+What is Hybrid Open Access?,Subscription-based journals offer the option for individual articles to be open access via APCs.,,,,,,,,,
+What are some reputable open access initiatives for books?,Radical Open Access, Knowledge Unlatched, and TOME are notable OA book initiatives.,,,,,,,
+What organizations promote publishing standards and ethics?,DOAJ, COPE, OASPA, ROAD.ISSN.org, and WAME promote ethical publishing practices.,,,,,
+Who can I contact for help with publishing decisions?,Contact your Research Support Librarian or use the guide’s contact details for assistance.,,,,,,,,,
+What is a literature review?,A literature review systematically analyzes scholarly writings related to a specific research question to provide background, show correspondence with the topic, and support further research.,,,,,,,
+What types of projects require a literature review?,Projects may include honors papers, capstone projects, theses, dissertations, research articles, grant proposals, and evidence-based practice reports.,,,
+What is not considered a literature review?,A literature review is not an annotated bibliography or a research paper supporting one side; it must critically analyze and reflect all sides of the argument.,,,,,,,,,
+Why is a literature review important?,It provides background, shows significance, identifies gaps, challenges assumptions, explores themes, and suggests future research directions.,,,,
+How do I define a good research question for a literature review?,Choose a topic that's not too broad or narrow, conduct preliminary searches, and use frameworks like PICO, SPICE, or ECLIPSE to define key concepts.,,,,,
+What are the key elements of a literature review?,Discuss the theory, explain the methodology used in the research, and identify gaps that your research will address.,,,,,,,
+What steps are involved in framing a search strategy?,Identify main concepts, conduct a keyword search, find subject headings (like MeSH), and perform a refined search using those terms.,,,,,,
+What is the benefit of using subject headings in searches?,Subject headings improve relevance and precision by using database-specific controlled vocabulary like MeSH in Medline or CINAHL Headings.,,,,,,,,,
+How should I organize search terms?,Break the research question into 2–4 concepts and use synonyms, plural/singular forms, acronyms, and subject headings for each.,,,,,,
+What are good databases to search for published literature?,Recommended databases include Cochrane Library, Medline, Web of Knowledge, and SCOPUS.,,,,,,
+What are some subject-specific resources?,Resources include CINAHL Plus (nursing), PsycInfo (psychology), and Health Research Premium Collection.,,,,,,,
+What is grey literature and why is it important?,Grey literature includes non-indexed sources like reports, theses, and policies. It reduces publication bias in research.,,,,,,,
+Where can I find grey literature?,Sources include OpenGrey, NLM resources (e.g., HSRProj), OpenDOAR, Bielefeld BASE, RIAN, Lenus, and the RCSI Repository.,,
+Where can I find theses for literature reviews?,Use ProQuest Dissertations & Theses, EThOS, and DART-Europe for international and European theses.,,,,,,,
+How should a literature review be structured?,Include an introduction, main body (organized by theme, chronology, or methodology), and a conclusion summarizing gaps and future directions.,,,,,
+What should I avoid in writing a literature review?,Avoid biased views, jargon, plagiarism, misrepresentation, and overly definitive statements. Use objective, clear language.,,,,
+What referencing styles are recommended?,The guide supports Harvard and Vancouver referencing styles.,,,,,,,,,
+What tools can help manage references and reviews?,Tools include EndNote (reference management), Covidence (systematic reviews), PRISMA, Abstrackr, and DistillerSR.,,,,,
+Are there any research support services available in addition to RtoP?,Yes, the library offers additional support such as one-on-one research consultations, guidance on systematic reviews, referencing help (EndNote), and assistance with journal selection.,,,,,
+Can the RtoP  program be accessed remotely or only on campus?,RtoP is fully online and self-paced, allowing researchers to access content remotely at their convenience.,,,,,,,,
+How is RtoP different from other online research courses?,RtoP is specifically tailored for healthcare professionals and is developed in collaboration with BMJ and the University of California, San Francisco, offering a blend of global publishing expertise and academic credibility.,,,,,,,
+When should I consider doing a systematic review?,Systematic reviews are best suited when there is a well-defined research question and a need to summarize all existing evidence to inform practice, policy, or further research.,,,,,,,
+Does the library provide support for conducting systematic reviews?,Yes, the library offers training on search strategies, citation management, and tools like Covidence. We also help with database selection and PRISMA documentation.,,,,,,
+Can I collaborate with others on Covidence?,Yes, you can invite team members to work collaboratively on the same project, assign roles, and track progress across stages.,,,,,,
+Does the library offer training or help with Covidence?,Yes, we provide one-on-one support, group training, and guidance on using Covidence efficiently, especially for title/abstract screening and PRISMA reporting.,,,,,
+What is the role of Creative Commons licenses in open access publishing?,Creative Commons licenses define how others can use your work. Most OA journals use CC BY, which allows reuse with attribution, supporting wider dissemination.,,,,,,,
+What are the different types of Creative Commons licenses and how do they vary?,Creative Commons licenses range from the most open (CC BY) to more restrictive (e.g., CC BY-NC-ND). They vary by allowing or restricting commercial use, modifications, and attribution requirements.,,,,,,
+Is it mandatory to include a Creative Commons license when publishing in an open access journal?,Not always. Some journals apply a default license, while others allow authors to choose. Authors should check the journal's OA policy.,,,,,,,,
+Can Creative Commons licenses be used for non-academic content like photos and videos?,Yes, CC licenses are widely used for images, videos, music, and educational materials, not just academic content.,,,,
+What is academic integrity?,Academic integrity is the commitment to honesty, ethical behavior, and respect for others’ work in all academic activities, including research, assessments, and learning.,,,,
+Why is academic integrity important at RCSI?,Academic integrity is essential at RCSI as it reflects the core values of professionalism, honesty, and accountability. It ensures the credibility of academic work, supports a fair learning environment, and safeguards the reputation of both students and the institution.,,,,,
+What are the core values of academic integrity at RCSI?,Responsibility, Respect, Fairness, Honesty, Trust, and Courage.,,,,
+What is the Academic Integrity Module (AIM)?,AIM is a mandatory online module that all undergraduate and postgraduate students must complete in their first semester.,,,,,,,,,
+What constitutes academic misconduct?,Academic misconduct includes plagiarism, cheating, falsification, contract cheating, impersonation, collusion, and other dishonest academic behaviors.,,,
+What is plagiarism and how can it be avoided?,Plagiarism is using someone else’s work without acknowledgment. Avoid it by citing sources properly, paraphrasing with attribution, and using Turnitin.,,,,,,,
+What is contract cheating?,Contract cheating involves getting another person or service to complete academic work on your behalf, often for payment.,,,,,,,,
+How can students avoid contract cheating?,Plan your schedule, seek help from professors or librarians, and use institutional support resources.,,,,,,,
+What is falsification in academic work?,Falsification involves misrepresenting or fabricating information or research data for academic credit.,,,,,,,,,
+How can I avoid falsification?,Manage time well, complete assignments independently, and understand proper citation practices.,,,,,,,
+What is self-plagiarism?,Self-plagiarism is submitting the same work for more than one course without permission.,,,,,,,,,
+How can I avoid self-plagiarism?,Cite your own previous work, ensure new content is original, and disclose reused material to instructors or editors.,,,,,,,
+What is impersonation in academic settings?,Impersonation includes taking a test for someone else or having someone take a test on your behalf.,,,,,,,,,
+How can I avoid impersonation issues?,Prepare in advance, attend your own assessments, and seek help if you're struggling.,,,,,,,
+What is collusion in academic work?,Collusion is a form of academic misconduct involving unauthorized collaboration between students. It occurs when one student allows another to copy, use, or significantly edit their work, presenting it as their own, which undermines independent learning and assessment integrity.,,,,,
+How can I avoid collusion?,Avoid sharing work unless instructed to collaborate, and do not allow others to proofread your assignments unless approved.,,,,,,,,
+What are students’ responsibilities regarding academic integrity?,Students must ensure submitted work is their own, cite all sources, and be honest in representing their contributions.,,,,,,,
+What are the consequences of academic misconduct at RCSI?,Consequences range from warnings (Level 1), formal records (Level 2), to disciplinary hearings (Level 3) based on the severity of the misconduct.,,,,,,,
+Who can I contact for support regarding academic integrity?,Contact Dr. Bindhu Nair at bnair@rcsi-mub.com or Dr. Suchita Dsilva at sdsilva@rcsi-mub.com.,,,,,,,,,
+What is referencing?,Referencing is a method used to show you’ve conducted appropriate reading and research by acknowledging sources when you quote, copy, paraphrase, or summarize others' work.,,,,,,
+Why do I need to reference?,Referencing enhances your writing, strengthens academic arguments, shows your information sources, and allows readers to verify your work.,,,,,,
+What is the Vancouver referencing style?,Vancouver Style is a numbered referencing system used primarily in medicine and science, following rules from the ICMJE and maintained by the U.S. National Library of Medicine.,,,,,,,,
+How are in-text citations formatted in Vancouver style?,In-text citations appear as numbers in superscript or in parentheses, corresponding to a numbered reference list.,,,,,,,,
+How is the Vancouver reference list organized?,The reference list is numbered sequentially in the order citations appear in the text and includes only cited works.,,,,,,,,,
+Do I use the same reference number for repeat citations?,Yes, once a source is cited, the same number is reused in all subsequent citations.,,,,,,,
+What should I do if there is no publication date?,Include as much information as possible; consult referencing guidelines for cases with missing dates.,,,,,,,,,
+How do I cite a source with no identifiable author?,Use the title of the source in place of the author in the reference list.,,,,,,,,,
+What is the difference between a reference list and a bibliography?,A reference list includes only cited works; a bibliography may include all consulted materials, cited or not.,,,,,,,,
+Should I reference lecture notes?,This depends on your faculty’s requirements—check their policy or ask your instructor.,,,,,,,,,
+How do I cite multiple references at once in Vancouver style?,Use hyphens for inclusive numbers (e.g., 3-6) and commas for non-sequential numbers (e.g.,3,9,17).,,,,,
+What are examples of sources referenced in Vancouver style?,Sources include books, journal articles, web pages, conference papers, theses, emails, interviews, podcasts, and more.,
+How should I cite web pages or websites?,Cite the title, responsible organization, publication date (if available), and full URL. Format depends on whether it's a professional or general source.,,,,,,
+Do I need to cite images and figures?,Yes, cite all images, whether from print or online sources, with appropriate details.,,,,,,
+How do I cite content from apps like UpToDate or DynaMed?,Include the app name, publisher, year, and access date. Specific formats are available for each app type.,,,,,,
+What is the purpose of the Library Support Guides for Research Summer School participants?,The guides help participants learn literature search strategies, choose search terms, and access different scholarly sources.,,,,,,,
+What is Primo?,Primo is the discovery tool at RCSI Bahrain Library that enables users to search books, articles, and other resources in one location.,,,,,,,
+How can I access PubMed?,PubMed can be accessed through the Library Support Guide and includes instructions on how to search and save searches.,,,,,,,,,
+What databases are accessible via the library portal?,Accessible databases include MEDLINE, Health Research Premium, Science Direct, Scopus, and Web of Science.,,,,,
+What is Covidence used for?,Covidence is a tool designed to streamline systematic reviews by assisting healthcare professionals and researchers in evidence synthesis.,,,,,,,,,
+What is PRISMA?,PRISMA provides a minimum set of items for reporting in literature reviews, systematic reviews, and meta-analyses.,,,,,,,
+What tool can help in writing a literature review?,The guide includes a Literature Review Matrix (Excel format) to help compare and contrast findings in the literature.,,,,,,,,,
+What is PROSPERO?,PROSPERO is an international database of prospectively registered systematic reviews in health and social care.,,,,,,,,,
+What resources are available for global health statistics?,Resources include the WHO Global Health Observatory, CDC Data & Statistics, and the National Center for Health Statistics.,,,,,,,
+What referencing styles are supported?,The guide supports Harvard and Vancouver referencing styles.,,,,,,,,,
+What tools are available for managing references?,Reference management tools include EndNote 20 for Mac and Mendeley.,,,,,,,,,
+Where can I find laboratory research protocols?,Protocol resources include Cold Spring Harbor Protocols, PLoS ONE, Springer/Nature Protocols, Wiley-Blackwell Current Protocols, and WHO IRIS laboratory manuals.,,,,,
 What subjects are covered in Cold Spring Harbor Protocols?,Subjects include antibodies, genomics, cell biology, electrophoresis, immunology, PCR, proteins, RNAi, stem cells, and more.
-How many protocols are available through Springer/Nature Protocols?,Over 60,000 protocols and methods are available in life and biomedical sciences.
-What areas are covered by Wiley-Blackwell Current Protocols?,Topics include bioinformatics, genetics, immunology, MRI, microbiology, molecular biology, protein science, and toxicology.
-What is the Harvard referencing style?,Harvard is an author-date citation style where in-text references link to a full list of sources at the end.
-How do I cite in-text using Harvard style?,Cite with the author’s surname and year of publication, e.g., (Henderson, 2005), or include the author in the sentence.
-How do I cite a source with two or three authors?,List all authors in the citation, e.g., (Barros, Read & Verdejo, 2008).
-How do I cite a source with four or more authors?,Use the first author's surname followed by et al., e.g., (van Alphen et al., 2007).
-How do I cite works by the same author in the same year?,Add lowercase letters after the year, e.g., (Goldacre, 2008a; Goldacre, 2008b).
-How do I cite a chapter from an edited book?,Cite the chapter's author, not the editor of the book.
-What is secondary referencing?,When citing a source mentioned in another work, name both authors, e.g., Colluzzi and Pappagallo (2005) as cited by Holding et al. (2008).
-How do I cite direct quotations in Harvard style?,Use single quotation marks and include the page number, e.g., (Simons, Menzies & Matthews, 2001, p.4).
-How do I cite images, tables, or diagrams?,Treat them as direct quotes: cite the author and page number in-text and in the figure/table caption.
-How do I cite a source with no author?,Use a corporate author or 'Anon' if none is available, e.g., (Department of Health, 2009).
-How do I cite multimedia works?,Use the title or uploader’s name as the author. For online videos, cite the uploader (which may be a username).
-How do I cite interviews or personal communication?,Use the interviewee’s surname as the author.
-What is the difference between a reference list and a bibliography?,A reference list includes only cited works; a bibliography may include all materials consulted.
-Can I use footnotes in Harvard referencing?,Footnotes are generally not used in Harvard referencing.
-What should I cite and what can I omit?,Cite all information that is not common knowledge and that you use to support your research.
-Who can I contact for help with Harvard referencing?,Contact Dr. Bindhu Nair (bnair@rcsi-mub.com) or visit the Information Services Desk.
-What is EndNote 21 used for?,EndNote 21 is reference management software that helps users collect, organize, and cite research sources efficiently.
-How do I install EndNote 21 on Windows?,Download it from the RCSI Bahrain Library portal. If you have EndNote 20, uninstall it before installing EndNote 21.
-What should I do before installing EndNote 21?,Uninstall any previous version of EndNote (e.g., EndNote 20) before installing version 21.
-What file types are associated with an EndNote library?,EndNote libraries have a .enl file and a .Data folder. Both must be kept in the same location.
-Can I store my EndNote library on a cloud drive?,No, do not store your EndNote library on OneDrive, Dropbox, or any network/cloud drive as it may corrupt the files.
-How do I manually add references in EndNote?,Click “New Reference” and fill in the details, ensuring the reference type matches the source.
-How can I import references from a database like PubMed?,Use direct export, RIS files, or drag and drop citations into your EndNote library.
-How do I insert citations into Microsoft Word using EndNote?,Use the “Insert Citation” feature under the EndNote tab in Word to add citations directly from your library.
-How do I format a bibliography in Word with EndNote?,Select the citation style (e.g., Harvard or Vancouver) from the EndNote tab in Word, and the bibliography will format automatically.
-How do I find full text for references in EndNote?,Highlight references and click “Find Full Text.” If institutional access exists, PDFs will be downloaded and attached.
-Can I share my EndNote library?,Yes, EndNote allows library sharing with up to 100 people via EndNote Online or synced libraries.
-What are groups and smart groups in EndNote?,Groups are custom collections of references; Smart Groups auto-populate based on search criteria.
-How can I back up my EndNote library?,Use “File > Compressed Library” to save a .enlx file for backup or transfer.
-Who can I contact for help with EndNote?,Contact the library’s Information Services Desk or email librarian@rcsi-mub.com for support.
-What resources does the Library & Learning Resource Center (LRC) offer?,The LRC offers access to physical facilities, online databases, e-books, recommended reading lists, and subject-specific guides.
-What can I find in the Online Library?,The Online Library provides access to research databases, e-books, and digital resources tailored to various academic levels and courses.
-How can I learn to use the library effectively?,Use the workshops, videos, and tutorials available through the library to learn at your own pace.
-Why should I use the library instead of just using Google?,Library resources are curated, reliable, often free (via subscription), organized, verifiable, and more comprehensive than standard web searches.
-What types of study spaces are available in the library?,Options include silent study areas, individual study carrels, computer workstations, and group study rooms.
-How do I book a group study room?,Use the room booking system to reserve a room, check in and out using a QR code, and ensure at least two students per reservation.
-How can I find a book in the library?,Use the online PRIMO Search to locate books and reserve them using your RCSI login credentials.
-Who can borrow library materials?,All registered RCSI Bahrain students and staff can borrow materials using a valid ID card.
-What is the policy for borrowing high-demand items?,High-demand items may be placed on short loan to ensure fair access for all users.
-What are the fines for overdue library books?,Overdue fines are 0.100 fils per day per item.
-What should I do if I lose a library book?,Report the loss immediately to library staff. You are responsible for replacement costs until the book is returned and cleared.
-How do I access the library’s electronic resources?,Use Primo to search and log in using your RCSI Bahrain credentials. Contact IT if you experience login issues.
-What should I do if the library doesn’t have an article I need?,Submit a Document Delivery Request form to order the full text.
-Can I request the library to purchase a book?,Yes, visit the LRC office to complete an order form and make a cash payment in advance. Orders take 6–8 weeks.
-Who are the main library staff contacts?,Key contacts include Dr. Bindhu Nair (Head of Library Services), Mr. Asif Altaf, Dr. Suchita Dsilva, Mr. Muhammad Zeeshan, and Ms. Hanna George.
-How can I get help with library services?,Email librarian@rcsi-mub.com, call 16660018, use LibChat, or schedule a one-on-one consultation online.
-What is EndNote 21 for Mac used for?,EndNote 21 is reference management software designed to help users organize, cite, and collaborate on research using a centralized, searchable library.
-How can I sync EndNote across devices?,Use the EndNote Sync feature to synchronize your library across up to three personal computers and mobile devices, provided you own and use all devices.
-Can I share my EndNote library with others?,Yes, you can share your EndNote library with up to 1,000 co-authors or colleagues through the library sharing feature.
-What are the new features in EndNote 21 for Mac?,New features include tag organization, library/data restoration, Word Online and Google Docs integration, improved duplicate detection, and retraction alerts.
-How do I create a new EndNote library?,Open EndNote from the Applications folder, and a default library named My EndNote Library will be created with a .enl file and .Data folder.
-How do I change the referencing style in EndNote?,Click the drop-down in the bottom-right corner and select your desired referencing style.
-How do I import references from Primo or databases?,Search and export citations using the RIS format from platforms like Primo, PubMed, Scopus, or Cochrane, then open the file to import into EndNote.
-How can I import references from Google Scholar?,Enable the Import into EndNote setting under Google Scholar’s Settings → Bibliography Manager, then click the link under a citation to download a .enw file.
-What is the process for creating manual references?,Use “New Reference,” select the reference type, fill in required fields, save, and preview the record in your chosen citation style.
-How do I import PDFs into EndNote?,Use File > Import > File and select PDF under Import Options. EndNote will auto-extract reference data if available.
-How can I attach PDFs manually to references?,Use the + Attach PDF option in the reference panel after saving the PDF to your computer.
-How do I manage and organize references into groups?,Create a group under the “Groups” menu, then drag references or use Add References To to move them into the group.
-What is the use of tags in EndNote?,Tags can be added in the Tags field within a reference for better organization and searchability.
-How can I find full-text articles using EndNote?,Use the “Find Full Text” feature, ensuring the OpenURL Path is set to RCSI's link resolver to retrieve PDFs or URLs.
-How do I remove duplicates in EndNote?,Use Library > Find Duplicates to compare and manage duplicate references. You can delete or manually review duplicates.
-What are the best practices for sharing an EndNote library?,Create a compressed library (.enlx file) and send via email. The recipient opens it through EndNote to decompress and use the references.
-How do I use EndNote with Microsoft Word?,Use the “Insert Citation” feature in the EndNote tab. To troubleshoot visibility, ensure the CWYW add-in is enabled and automation permissions are set.
-How can I edit or remove a citation in Word using EndNote?,Use “Edit & Manage Citation(s)” in the EndNote tab to add page numbers, exclude details, or remove the citation.
-Where can I find more EndNote training and support?,Access videos and resources at Clarivate’s EndNote Training Hub or email librarian@rcsi-mub.com.
-What is artificial intelligence (AI)?,AI refers to computer systems performing tasks that usually require human intelligence, including machine learning and deep learning.
-What are common applications of AI in everyday life?,Examples include voice assistants like Siri, translation tools like Google Translate, and more complex uses in business and education.
-Can students use AI tools in their coursework?,Students should use AI responsibly and only when permitted; coursework should generally be completed independently without unauthorized AI assistance.
-How can students use AI effectively for learning?,AI can help summarize notes, generate study questions, check grammar, brainstorm topics, and simulate real-world research practices.
-What is the CREATE framework for AI prompting?,CREATE stands for Character, Request, Examples, Adjustments, Type, and Extras—guidelines for crafting effective AI prompts.
-What are some recommended AI tools for education and research?,Tools include ChatGPT, DALL·E 2, Jasper, Elicit, ResearchRabbit, Scholarcy, Scite.ai, Semantic Scholar, and Trinka.
-How should AI-generated content be cited?,Cite the AI tool with the company name and year, and include the full chat transcript as an appendix if needed. APA citation examples are provided.
-What are the ethical concerns when using generative AI?,Issues include bias, accuracy, academic dishonesty, copyright ambiguity, overreliance, and data privacy risks.
-What AI detection tools are available for educators?,Detection tools include AI Detector Pro, CopyLeaks, GPTZero, GPT-2 Output Detector, Scribbr, Turnitin AI Writing Detector, and Winston.
-Who holds the copyright of AI-generated content?,Copyright laws are unclear; generally, AI-generated content is not considered to have human authorship and may not be copyrightable.
-How should RCSI learners approach AI use?,Use AI ethically and consult course guidelines or instructors. Misuse of AI, like using it to complete assignments, may constitute plagiarism.
-What is the 'Find a Seat' service?,It is an online service that allows registered RCSI Bahrain members to reserve library study rooms.
-Who can use the study rooms?,Study rooms are available to students seeking collaborative study space.
-How long can I book a study room for?,Rooms can be booked for up to 2 hours.
-What zones are available for booking?,Bookings can be made in the Red Zone and Green Zone.
-How do I make a room booking?,Log in to the 'Find a Seat' service with your RCSI Bahrain email, choose a zone, select a room, and follow the prompts to complete your booking.
-What do I need to bring to access a reserved room?,Bring your confirmation email and RCSI ID.
-What are the occupancy rules for study rooms?,A minimum of 2 people is required per room, and you must scan the QR code to check in and out.
-Can I make more than one reservation a day?,No, each user can only make one reservation per day.
-What happens if I don't occupy the room within 30 minutes of the booking time?,The room becomes available for others to use.
-How do I cancel a booking I no longer need?,Cancel it through the 'Find a Seat' service so others can reserve it.
-What happens if someone tries to monopolize study rooms?,It is considered a breach of the Library's Code of Conduct.
-Are there any rules on moving furniture in the library?,No, students should not move chairs or tables; furniture placement is optimized for safety and efficiency.
-What are the check-in procedures for reserved rooms?,Scan the QR code or enter the 3-digit code upon arrival and scan again when leaving.
-What safety measures are in place for study rooms?,Regular cleaning, availability of hand sanitizer and disinfectant materials, and adherence to social distancing and mask-wearing protocols.
-What are current awareness services?,These are tools that help users stay updated with the latest literature in their field through automated alerts and updates.
-What is a search alert service?,It automatically runs saved database searches and delivers the results via email or RSS feed.
-What is a citation alert service?,It sends notifications whenever a chosen article is cited by new publications.
-What is a Journal Issue or TOC alert?,It notifies users via email or RSS feed whenever a new issue of a selected journal is published.
-How do I save searches in PubMed?,Sign in to My NCBI, run your search in PubMed, and click Save Search to create alerts.
-How can I set up alerts in ScienceDirect?,On the results page, click 'Set search alert', name your alert, choose the frequency, and save it.
-How do I create alerts in Web of Science?,Register an account, run a search, then click 'Create Alert' from the left panel and fill out the popup form.
-What current awareness resources are available for medicine?,Journals like NEJM, The Lancet, and BMC Medicine offer website and RSS feeds for recent research updates.
-What nursing journals provide current awareness updates?,BMC Nursing, Journal of Pediatric Nursing, and The Journal for Nurse Practitioners provide updates and feeds.
-Can I receive alerts from PubMed for full-text availability?,Yes, customize My NCBI preferences to include full-text links in your PubMed alerts.
-How can I contact the library for help with current awareness tools?,Reach out to the library if you have trouble accessing databases or setting up alerts.
-What is the Book Request Service?,It is an online service for borrowing and returning print resources from the Library collection at RCSI Bahrain.
-Who can use the Book Request Service?,All RCSI Bahrain students and staff can use this service.
-How many books can I request at one time?,You can request up to 5 books from the main library collection.
-How do I submit a book request?,Log in to Primo using your RCSI email ID and password, search for books, and submit a request for available titles.
-What happens after I submit a request?,Library staff retrieve the book, scan it, and place it on a hold shelf. You'll be notified via email once it's ready.
-How will I know when my book is ready for pickup?,An email will be sent to your RCSI email address with a collection date once the book is ready.
-Where do I collect requested books?,Collect your books from the Information Services Desk.
-How long will the library hold my requested books?,Requested books will be held for two days following the notification email.
-What happens if I don't collect the books within two days?,If not collected within two days, the books will be reshelved.
-What is the Libby app?,Libby is a free app that allows RCSI Bahrain users to borrow ebooks and audiobooks from the Library & Learning Resource Centre.
-How do I get started with Libby?,Install the Libby app, find RCSI - Medical University of Bahrain, and sign in with your VLE username and password.
-What do I need to use Libby?,You need your VLE credentials, internet access, and a device like a smartphone, tablet, or e-reader with the Libby app installed.
-How many titles can I borrow on Libby at once?,You can check out up to 2 titles at a time.
-How long can I borrow titles on Libby?,Titles can be borrowed for up to 7 days.
-Are there late fees for Libby titles?,No, titles are automatically returned at the end of the lending period, so there are no late fees.
-Can I place a hold on books in Libby?,Yes, you can place a hold on up to 3 titles at a time.
-How can I view my place in the hold queue in Libby?,Go to Shelf > Holds and tap the calendar icon to view your spot in line and other wait list details.
-How can I customize my browsing experience in Libby?,Tap “Preferences” on your library's home screen to adjust filters and sorting options, then tap “Apply Preferences.”
-How can I explore book recommendations in Libby?,Tap “Explore” on your library's home screen to search by subject, popularity, availability, and more.
-Can I add more than one library in Libby?,Yes, tap the Libby icon > “Add a Library,” then search by name or zip code.
-Where can I get help with Libby?,Use the in-app support or visit help.libbyapp.com, or email librarian@rcsi-mub.com or aaltaf@rcsi-mub.com.
-Can I search Primo without logging in?,Yes, you can search as a guest, but you wont see circulation rules or have access to full-text resources.
-Why should I log in to Primo?,Logging in with your RCSI Bahrain username and password provides a more accurate search experience and access to full-text resources and borrowing features.
-What should I do if I can’t log in to Primo?,Contact IT at helpdesk@rcsi-mub.com to reset your password.
-What happened to the Heritage catalog?,Primo replaced the Heritage catalog on January 31, 2023, consolidating print and electronic collections into one search platform.
-Do I need to log in to borrow or access full-text resources?,Yes, logging in is required to borrow items and access full-text electronic resources.
-How can I search for books in Primo?,Use either the Basic or Advanced Search options to locate books in the library collection.
-How do I search for articles in Primo?,Enter keywords or article titles in the search bar and use filters to refine results to journal articles.
-How do I search for journals in Primo?,Use the Advanced Search and select “Journal Title” to find specific journals.
-How do I renew books in Primo?,Sign in to your library account in Primo to view your loans and renew eligible items.
-What are Boolean operators in Primo searching?,Boolean operators like AND, OR, and NOT help refine search results and can be used in both Basic and Advanced Search modes.
-How can I stay updated on library events, workshops, and new titles?,Stay informed by following us on library's Instagram page <https://www.instagram.com/rcsi.lrc/>, or checking our website <https://library.rcsi-mub.com/library/home> regularly for announcements and updates.
-How do I renew my library materials, and can I do it online?,You can renew library materials online through your library account on our Primo Library Portal <https://rcsibahrain.primo.exlibrisgroup.com/discovery/search?vid=973RCSIB_INST:RCSIB&lang=en>. Please note that renewals may be limited, so check due dates carefully.
-How do I cite sources properly in my research papers and assignments?,We have guides available on different citation styles (e.g., Harvard <https://library.rcsi-mub.com/c.php?g=1074924>, Vancouver <https://library.rcsi-mub.com/vancouverreferencing>). You can also book an appointment with our librarians and consult for guidance on citing sources correctly.
-Are there study spaces and group study rooms available in the library?,Yes, we offer study spaces and group study rooms. Some may require reservations (Book a Study Room <https://lrcroombookings.rcsi-mub.com/>), for more details check our website or inquire at the information desk for availability.
-How can I get help with research or finding reliable sources for my assignments or projects?,Our librarians are here to help! You can schedule a research consultation with a librarian, visit the link <https://lrcroombookings.rcsi-mub.com/appointments/> and schedule an appointment, or use our online chat service for immediate assistance.
-Can I access library resources off-campus?,Yes, most of the library’s online resources are accessible from off-campus. Please use the A-Z <https://library.rcsi-mub.com/az.php> and log in with your RCSI credentials for seamless access to full-text databases and journals.
-How can I borrow books and other materials from the library?,To borrow books and other materials, you'll need a valid university ID. You can check out books at the information desk. The loan period and renewal options may vary, so ask the library staff for details.
-What are the library's operating hours?,Library hours vary. Please check <https://lrcroombookings.rcsi-mub.com/hours> or contact the library directly for the latest information.
-How do I access the library's online catalog and databases?,Visit our website and click 'Primo Search <https://rcsibahrain.primo.exlibrisgroup.com/discovery/search?vid=973RCSIB_INST:RCSIB>' or 'E-Resources <https://library.rcsi-mub.com/az.php>' to access them using your university credentials.
-How can I request articles or book chapters not available in our collection?,You can request document delivery using this form <https://creatorapp.zohopublic.com/simonwhitebridge/library-services-document-supply-request/form-perma/Document_Supply_Request/MRxQz6fnW5stRtz30MemP3hJOVC03An10uaZqKsPJEjyDD7FwD5tgGhQEPvPgz4x0yqrbA3XntJKunKGJhx5nzAzmvDFq3EPdErQ>.
-How can I renew my books online?,Visit <https://rcsibahrain.primo.exlibrisgroup.com/discovery/search?vid=973RCSIB_INST:RCSIB>, log in with your RCSI credentials, and navigate to 'My Library Card' > 'Loans' to renew.
-Who can I do in-text citation for the article with two authors with the same surname in Harvard Referencing?,If two sources have authors with the same surname and the same year, include initials to distinguish them, e.g., (R.F. Jones, 1998) vs (C.B. Jones, 1998).
-What about 2 articles with the same surname but different years in Harvard Referencing?,Yes, you must include both, e.g., (Smith, 2018) and (Smith, 2020), as they are different sources.
-How can I access UpToDate App?,Sign in to PRIMO > go to A–Z resources > select UpToDate. Register for a personal account to use the app.
-I am unable to access PRIMO.,Please reset your password via ICT. If the issue persists, contact Mr. Asif Altaf at aaltaf@rcsi-mub.com.
-Where can I get information about referencing and citing?,Visit the Referencing & Citing Guide <https://library.rcsi-mub.com/c.php?g=714089> for examples in Harvard and Vancouver. Library staff are available to help.
-How do I place a Document Delivery request?,If the article/book is unavailable, use this form <https://creatorapp.zohopublic.com/simonwhitebridge/library-services-document-supply-request/form-perma/Document_Supply_Request/MRxQz6fnW5stRtz30MemP3hJOVC03An10uaZqKsPJEjyDD7FwD5tgGhQEPvPgz4x0yqrbA3XntJKunKGJhx5nzAzmvDFq3EPdErQ> to request it.
-How can I download the RCSI Bahrain Harvard referencing style for EndNote?,You can download it from <https://endnote.com/style_download/rcsi-bahrain-son-referencing/>.
-Should I store my EndNote library in cloud storage?,No. Cloud storage like Dropbox or Google Drive may corrupt your library. Store a compressed backup instead. See advice from EndNote Support <https://support.clarivate.com/Endnote/s/article/EndNote-Reference-Manager-ProCite-Compatibility-with-Dropbox-and-other-Cloud-storage?language=en_US>.
-I am unable to access library portal/Primo. It says no user with such credentials.,Ensure your RCSI account is active. Try Chrome or Firefox. If issues persist, contact ICT or Mr. Asif Altaf at aaltaf@rcsi-mub.com.
-What are the databases other than BNF for drug information?,You can use UpToDate, DynaMed, 5 Minute Consult, and BMJ Best Practice.
-How can I reserve a book?,Search the book in Primo <https://rcsibahrain.primo.exlibrisgroup.com/discovery/search?vid=973RCSIB_INST:RCSIB>, log in, and click on 'Request'. You may reserve up to 5 books at a time.
-How can I access UpToDate App?,Visit <https://library.rcsi-mub.com/az/databases>, select UpToDate, register for an account, then download and log in to the app. Re-authenticate every 90 days via the library portal.
-I want to ask regarding reference and citation. If three authors are there, do I write all three surnames or use et al.?,In citations, use the first author’s surname followed by et al. and year. In the reference list, list all three authors’ names.
-Can I meet a librarian?,Yes, book an appointment at <https://lrcroombookings.rcsi-mub.com/appointments/>. Select your librarian and they’ll confirm via email and schedule a Teams meeting.
-How do I access ClinicalKey Student and Wiley Online Library?,Register for ClinicalKey Student using your RCSI email. Wiley doesn’t require registration. If full text isn’t available, use Document Delivery <https://bit.ly/3RucAJh>.
-How can I get training on using EndNote?,Book an appointment via <https://lrcroombookings.rcsi-mub.com/appointments>. A librarian will guide you one-on-one on using EndNote for referencing and research.
-I am having trouble logging into my library account.,Ensure your credentials are correct. Try a different browser or clear cache. If problems persist, contact Mr. Asif Altaf at aaltaf@rcsi-mub.com for help.
-I'm new to the library. What username and password should I use?,Use your university’s VLE credentials. If you have trouble, contact IT or library staff for help accessing your account.
-What if I borrowed a book and can't return it on time?,Renew online or email the library to explain. Return books to the desk or use the return box outside. Renew early to avoid fines.
-Can I visit the library to borrow books?,Yes, you can visit and borrow during open hours. You may also reserve via Primo <https://rcsibahrain.primo.exlibrisgroup.com/discovery/search?vid=973RCSIB_INST:RCSIB>. You’ll be notified by email once ready.
-How can I reset my password?,If your login fails, clear browser cookies and try again. If it still doesn’t work, contact the library. Provide your name and error details for assistance.
+How many protocols are available through Springer/Nature Protocols?,Over 60,000 protocols and methods are available in life and biomedical sciences.,,,,,,,,
+What areas are covered by Wiley-Blackwell Current Protocols?,Topics include bioinformatics, genetics, immunology, MRI, microbiology, molecular biology, protein science, and toxicology.,,
+What is the Harvard referencing style?,Harvard is an author-date citation style where in-text references link to a full list of sources at the end.,,,,,,,,,
+How do I cite in-text using Harvard style?,Cite with the author’s surname and year of publication, e.g., (Henderson, 2005), or include the author in the sentence.,,,,,
+How do I cite a source with two or three authors?,List all authors in the citation, e.g., (Barros, Read & Verdejo, 2008).,,,,,
+How do I cite a source with four or more authors?,Use the first author's surname followed by et al., e.g., (van Alphen et al., 2007).,,,,,,
+How do I cite works by the same author in the same year?,Add lowercase letters after the year, e.g., (Goldacre, 2008a; Goldacre, 2008b).,,,,,
+How do I cite a chapter from an edited book?,Cite the chapter's author, not the editor of the book.,,,,,,,,
+What is secondary referencing?,When citing a source mentioned in another work, name both authors, e.g., Colluzzi and Pappagallo (2005) as cited by Holding et al. (2008).,,,,,,
+How do I cite direct quotations in Harvard style?,Use single quotation marks and include the page number, e.g., (Simons, Menzies & Matthews,2001, p.4).,,,,
+How do I cite images, tables, or diagrams?,Treat them as direct quotes: cite the author and page number in-text and in the figure/table caption.,,,,,,,
+How do I cite a source with no author?,Use a corporate author or 'Anon' if none is available, e.g., (Department of Health, 2009).,,,,,,
+How do I cite multimedia works?,Use the title or uploader’s name as the author. For online videos, cite the uploader (which may be a username).,,,,,,,,
+How do I cite interviews or personal communication?,Use the interviewee’s surname as the author.,,,,,,,,,
+What is the difference between a reference list and a bibliography?,A reference list includes only cited works; a bibliography may include all materials consulted.,,,,,,,,,
+Can I use footnotes in Harvard referencing?,Footnotes are generally not used in Harvard referencing.,,,,,,,,,
+What should I cite and what can I omit?,Cite all information that is not common knowledge and that you use to support your research.,,,,,,,,,
+Who can I contact for help with Harvard referencing?,Contact Dr. Bindhu Nair (bnair@rcsi-mub.com) or visit the Information Services Desk.,,,,,,,,,
+What is EndNote 21 used for?,EndNote 21 is reference management software that helps users collect, organize, and cite research sources efficiently.,,,,,,,
+How do I install EndNote 21 on Windows?,Download it from the RCSI Bahrain Library portal. If you have EndNote 20, uninstall it before installing EndNote 21.,,,,,,,,
+What should I do before installing EndNote 21?,Uninstall any previous version of EndNote (e.g., EndNote 20) before installing version 21.,,,,,,,,
+What file types are associated with an EndNote library?,EndNote libraries have a .enl file and a .Data folder. Both must be kept in the same location.,,,,,,,,,
+Can I store my EndNote library on a cloud drive?,No, do not store your EndNote library on OneDrive, Dropbox, or any network/cloud drive as it may corrupt the files.,,,,,,
+How do I manually add references in EndNote?,Click “New Reference” and fill in the details, ensuring the reference type matches the source.,,,,,,,,
+How can I import references from a database like PubMed?,Use direct export, RIS files, or drag and drop citations into your EndNote library.,,,,,,,
+How do I insert citations into Microsoft Word using EndNote?,Use the “Insert Citation” feature under the EndNote tab in Word to add citations directly from your library.,,,,,,,,,
+How do I format a bibliography in Word with EndNote?,Select the citation style (e.g., Harvard or Vancouver) from the EndNote tab in Word, and the bibliography will format automatically.,,,,,,,
+How do I find full text for references in EndNote?,Highlight references and click “Find Full Text.” If institutional access exists, PDFs will be downloaded and attached.,,,,,,,,
+Can I share my EndNote library?,Yes, EndNote allows library sharing with up to 100 people via EndNote Online or synced libraries.,,,,,,,,
+What are groups and smart groups in EndNote?,Groups are custom collections of references; Smart Groups auto-populate based on search criteria.,,,,,,,,,
+How can I back up my EndNote library?,Use “File > Compressed Library” to save a .enlx file for backup or transfer.,,,,,,,,,
+Who can I contact for help with EndNote?,Contact the library’s Information Services Desk or email librarian@rcsi-mub.com for support.,,,,,,,,,
+What resources does the Library & Learning Resource Center (LRC) offer?,The LRC offers access to physical facilities, online databases, e-books, recommended reading lists, and subject-specific guides.,,,,,
+What can I find in the Online Library?,The Online Library provides access to research databases, e-books, and digital resources tailored to various academic levels and courses.,,,,,,,
+How can I learn to use the library effectively?,Use the workshops, videos, and tutorials available through the library to learn at your own pace.,,,,,,,
+Why should I use the library instead of just using Google?,Library resources are curated, reliable, often free (via subscription), organized, verifiable, and more comprehensive than standard web searches.,,,,
+What types of study spaces are available in the library?,Options include silent study areas, individual study carrels, computer workstations, and group study rooms.,,,,,,
+How do I book a group study room?,Use the room booking system to reserve a room, check in and out using a QR code, and ensure at least two students per reservation.,,,,,,,
+How can I find a book in the library?,Use the online PRIMO Search to locate books and reserve them using your RCSI login credentials.,,,,,,,,,
+Who can borrow library materials?,All registered RCSI Bahrain students and staff can borrow materials using a valid ID card.,,,,,,,,,
+What is the policy for borrowing high-demand items?,High-demand items may be placed on short loan to ensure fair access for all users.,,,,,,,,,
+What are the fines for overdue library books?,Overdue fines are 0.100 fils per day per item.,,,,,,,,,
+What should I do if I lose a library book?,Report the loss immediately to library staff. You are responsible for replacement costs until the book is returned and cleared.,,,,,,,,,
+How do I access the library’s electronic resources?,Use Primo to search and log in using your RCSI Bahrain credentials. Contact IT if you experience login issues.,,,,,,,,,
+What should I do if the library doesn’t have an article I need?,Submit a Document Delivery Request form to order the full text.,,,,,,,,,
+Can I request the library to purchase a book?,Yes, visit the LRC office to complete an order form and make a cash payment in advance. Orders take 6–8 weeks.,,,,,,,,
+Who are the main library staff contacts?,Key contacts include Dr. Bindhu Nair (Head of Library Services), Mr. Asif Altaf, Dr. Suchita Dsilva, Mr. Muhammad Zeeshan, and Ms. Hanna George.,,,,,
+How can I get help with library services?,Email librarian@rcsi-mub.com, call 16660018, use LibChat, or schedule a one-on-one consultation online.,,,,,,
+What is EndNote 21 for Mac used for?,EndNote 21 is reference management software designed to help users organize, cite, and collaborate on research using a centralized, searchable library.,,,,,,
+How can I sync EndNote across devices?,Use the EndNote Sync feature to synchronize your library across up to three personal computers and mobile devices, provided you own and use all devices.,,,,,,,,
+Can I share my EndNote library with others?,Yes, you can share your EndNote library with up to 1,000 co-authors or colleagues through the library sharing feature.,,,,,,,
+What are the new features in EndNote 21 for Mac?,New features include tag organization, library/data restoration, Word Online and Google Docs integration, improved duplicate detection, and retraction alerts.,,,,,
+How do I create a new EndNote library?,Open EndNote from the Applications folder, and a default library named My EndNote Library will be created with a .enl file and .Data folder.,,,,,,,,
+How do I change the referencing style in EndNote?,Click the drop-down in the bottom-right corner and select your desired referencing style.,,,,,,,,,
+How do I import references from Primo or databases?,Search and export citations using the RIS format from platforms like Primo, PubMed, Scopus, or Cochrane, then open the file to import into EndNote.,,,,,
+How can I import references from Google Scholar?,Enable the Import into EndNote setting under Google Scholar’s Settings → Bibliography Manager, then click the link under a citation to download a .enw file.,,,,,,,,
+What is the process for creating manual references?,Use “New Reference,” select the reference type, fill in required fields, save, and preview the record in your chosen citation style.,,,,,
+How do I import PDFs into EndNote?,Use File > Import > File and select PDF under Import Options. EndNote will auto-extract reference data if available.,,,,,,,,,
+How can I attach PDFs manually to references?,Use the + Attach PDF option in the reference panel after saving the PDF to your computer.,,,,,,,,,
+How do I manage and organize references into groups?,Create a group under the “Groups” menu, then drag references or use Add References To to move them into the group.,,,,,,,,
+What is the use of tags in EndNote?,Tags can be added in the Tags field within a reference for better organization and searchability.,,,,,,,,,
+How can I find full-text articles using EndNote?,Use the “Find Full Text” feature, ensuring the OpenURL Path is set to RCSI's link resolver to retrieve PDFs or URLs.,,,,,,,,
+How do I remove duplicates in EndNote?,Use Library > Find Duplicates to compare and manage duplicate references. You can delete or manually review duplicates.,,,,,,,,,
+What are the best practices for sharing an EndNote library?,Create a compressed library (.enlx file) and send via email. The recipient opens it through EndNote to decompress and use the references.,,,,,,,,,
+How do I use EndNote with Microsoft Word?,Use the “Insert Citation” feature in the EndNote tab. To troubleshoot visibility, ensure the CWYW add-in is enabled and automation permissions are set.,,,,,,,,
+How can I edit or remove a citation in Word using EndNote?,Use “Edit & Manage Citation(s)” in the EndNote tab to add page numbers, exclude details, or remove the citation.,,,,,,,
+Where can I find more EndNote training and support?,Access videos and resources at Clarivate’s EndNote Training Hub or email librarian@rcsi-mub.com.,,,,,,,,,
+What is artificial intelligence (AI)?,AI refers to computer systems performing tasks that usually require human intelligence, including machine learning and deep learning.,,,,,,,,
+What are common applications of AI in everyday life?,Examples include voice assistants like Siri, translation tools like Google Translate, and more complex uses in business and education.,,,,,,,
+Can students use AI tools in their coursework?,Students should use AI responsibly and only when permitted; coursework should generally be completed independently without unauthorized AI assistance.,,,,,,,,,
+How can students use AI effectively for learning?,AI can help summarize notes, generate study questions, check grammar, brainstorm topics, and simulate real-world research practices.,,,,,
+What is the CREATE framework for AI prompting?,CREATE stands for Character, Request, Examples, Adjustments, Type, and Extras—guidelines for crafting effective AI prompts.,,,,
+What are some recommended AI tools for education and research?,Tools include ChatGPT, DALL·E 2, Jasper, Elicit, ResearchRabbit, Scholarcy, Scite.ai, Semantic Scholar, and Trinka.,
+How should AI-generated content be cited?,Cite the AI tool with the company name and year, and include the full chat transcript as an appendix if needed. APA citation examples are provided.,,,,,,,,
+What are the ethical concerns when using generative AI?,Issues include bias, accuracy, academic dishonesty, copyright ambiguity, overreliance, and data privacy risks.,,,,
+What AI detection tools are available for educators?,Detection tools include AI Detector Pro, CopyLeaks, GPTZero, GPT-2 Output Detector, Scribbr, Turnitin AI Writing Detector, and Winston.,,,
+Who holds the copyright of AI-generated content?,Copyright laws are unclear; generally, AI-generated content is not considered to have human authorship and may not be copyrightable.,,,,,,,,
+How should RCSI learners approach AI use?,Use AI ethically and consult course guidelines or instructors. Misuse of AI, like using it to complete assignments, may constitute plagiarism.,,,,,,,
+What is the 'Find a Seat' service?,It is an online service that allows registered RCSI Bahrain members to reserve library study rooms.,,,,,,,,,
+Who can use the study rooms?,Study rooms are available to students seeking collaborative study space.,,,,,,,,,
+How long can I book a study room for?,Rooms can be booked for up to 2 hours.,,,,,,,,,
+What zones are available for booking?,Bookings can be made in the Red Zone and Green Zone.,,,,,,,,,
+How do I make a room booking?,Log in to the 'Find a Seat' service with your RCSI Bahrain email, choose a zone, select a room, and follow the prompts to complete your booking.,,,,,,
+What do I need to bring to access a reserved room?,Bring your confirmation email and RCSI ID.,,,,,,,,,
+What are the occupancy rules for study rooms?,A minimum of 2 people is required per room, and you must scan the QR code to check in and out.,,,,,,,,
+Can I make more than one reservation a day?,No, each user can only make one reservation per day.,,,,,,,,
+What happens if I don't occupy the room within 30 minutes of the booking time?,The room becomes available for others to use.,,,,,,,,,
+How do I cancel a booking I no longer need?,Cancel it through the 'Find a Seat' service so others can reserve it.,,,,,,,,,
+What happens if someone tries to monopolize study rooms?,It is considered a breach of the Library's Code of Conduct.,,,,,,,,,
+Are there any rules on moving furniture in the library?,No, students should not move chairs or tables; furniture placement is optimized for safety and efficiency.,,,,,,,,
+What are the check-in procedures for reserved rooms?,Scan the QR code or enter the 3-digit code upon arrival and scan again when leaving.,,,,,,,,,
+What safety measures are in place for study rooms?,Regular cleaning, availability of hand sanitizer and disinfectant materials, and adherence to social distancing and mask-wearing protocols.,,,,,,,
+What are current awareness services?,These are tools that help users stay updated with the latest literature in their field through automated alerts and updates.,,,,,,,,,
+What is a search alert service?,It automatically runs saved database searches and delivers the results via email or RSS feed.,,,,,,,,,
+What is a citation alert service?,It sends notifications whenever a chosen article is cited by new publications.,,,,,,,,,
+What is a Journal Issue or TOC alert?,It notifies users via email or RSS feed whenever a new issue of a selected journal is published.,,,,,,,,,
+How do I save searches in PubMed?,Sign in to My NCBI, run your search in PubMed, and click Save Search to create alerts.,,,,,,,
+How can I set up alerts in ScienceDirect?,On the results page, click 'Set search alert', name your alert, choose the frequency, and save it.,,,,,
+How do I create alerts in Web of Science?,Register an account, run a search, then click 'Create Alert' from the left panel and fill out the popup form.,,,,,,,
+What current awareness resources are available for medicine?,Journals like NEJM, The Lancet, and BMC Medicine offer website and RSS feeds for recent research updates.,,,,,,,
+What nursing journals provide current awareness updates?,BMC Nursing, Journal of Pediatric Nursing, and The Journal for Nurse Practitioners provide updates and feeds.,,,,,,,
+Can I receive alerts from PubMed for full-text availability?,Yes, customize My NCBI preferences to include full-text links in your PubMed alerts.,,,,,,,,
+How can I contact the library for help with current awareness tools?,Reach out to the library if you have trouble accessing databases or setting up alerts.,,,,,,,,,
+What is the Book Request Service?,It is an online service for borrowing and returning print resources from the Library collection at RCSI Bahrain.,,,,,,,,,
+Who can use the Book Request Service?,All RCSI Bahrain students and staff can use this service.,,,,,,,,,
+How many books can I request at one time?,You can request up to 5 books from the main library collection.,,,,,,,,,
+How do I submit a book request?,Log in to Primo using your RCSI email ID and password, search for books, and submit a request for available titles.,,,,,,,
+What happens after I submit a request?,Library staff retrieve the book, scan it, and place it on a hold shelf. You'll be notified via email once it's ready.,,,,,,,
+How will I know when my book is ready for pickup?,An email will be sent to your RCSI email address with a collection date once the book is ready.,,,,,,,,,
+Where do I collect requested books?,Collect your books from the Information Services Desk.,,,,,,,,,
+How long will the library hold my requested books?,Requested books will be held for two days following the notification email.,,,,,,,,,
+What happens if I don't collect the books within two days?,If not collected within two days, the books will be reshelved.,,,,,,,,
+What is the Libby app?,Libby is a free app that allows RCSI Bahrain users to borrow ebooks and audiobooks from the Library & Learning Resource Centre.,,,,,,,,,
+How do I get started with Libby?,Install the Libby app, find RCSI - Medical University of Bahrain, and sign in with your VLE username and password.,,,,,,,
+What do I need to use Libby?,You need your VLE credentials, internet access, and a device like a smartphone, tablet, or e-reader with the Libby app installed.,,,,,
+How many titles can I borrow on Libby at once?,You can check out up to 2 titles at a time.,,,,,,,,,
+How long can I borrow titles on Libby?,Titles can be borrowed for up to 7 days.,,,,,,,,,
+Are there late fees for Libby titles?,No, titles are automatically returned at the end of the lending period, so there are no late fees.,,,,,,,
+Can I place a hold on books in Libby?,Yes, you can place a hold on up to 3 titles at a time.,,,,,,,,
+How can I view my place in the hold queue in Libby?,Go to Shelf > Holds and tap the calendar icon to view your spot in line and other wait list details.,,,,,,,,,
+How can I customize my browsing experience in Libby?,Tap “Preferences” on your library's home screen to adjust filters and sorting options, then tap “Apply Preferences.”,,,,,,,,
+How can I explore book recommendations in Libby?,Tap “Explore” on your library's home screen to search by subject, popularity, availability, and more.,,,,,,
+Can I add more than one library in Libby?,Yes, tap the Libby icon > “Add a Library,” then search by name or zip code.,,,,,,,
+Where can I get help with Libby?,Use the in-app support or visit help.libbyapp.com, or email librarian@rcsi-mub.com or aaltaf@rcsi-mub.com.,,,,,,,,
+Can I search Primo without logging in?,Yes, you can search as a guest, but you wont see circulation rules or have access to full-text resources.,,,,,,,
+Why should I log in to Primo?,Logging in with your RCSI Bahrain username and password provides a more accurate search experience and access to full-text resources and borrowing features.,,,,,,,,,
+What should I do if I can’t log in to Primo?,Contact IT at helpdesk@rcsi-mub.com to reset your password.,,,,,,,,,
+What happened to the Heritage catalog?,Primo replaced the Heritage catalog on January 31,2023, consolidating print and electronic collections into one search platform.,,,,,,,
+Do I need to log in to borrow or access full-text resources?,Yes, logging in is required to borrow items and access full-text electronic resources.,,,,,,,,
+How can I search for books in Primo?,Use either the Basic or Advanced Search options to locate books in the library collection.,,,,,,,,,
+How do I search for articles in Primo?,Enter keywords or article titles in the search bar and use filters to refine results to journal articles.,,,,,,,,,
+How do I search for journals in Primo?,Use the Advanced Search and select “Journal Title” to find specific journals.,,,,,,,,,
+How do I renew books in Primo?,Sign in to your library account in Primo to view your loans and renew eligible items.,,,,,,,,,
+What are Boolean operators in Primo searching?,Boolean operators like AND, OR, and NOT help refine search results and can be used in both Basic and Advanced Search modes.,,,,,,,
+How can I stay updated on library events, workshops, and new titles?,Stay informed by following us on library's Instagram page <https://www.instagram.com/rcsi.lrc/>, or checking our website <https://library.rcsi-mub.com/library/home> regularly for announcements and updates.,,,,,,
+How do I renew my library materials, and can I do it online?,You can renew library materials online through your library account on our Primo Library Portal <https://rcsibahrain.primo.exlibrisgroup.com/discovery/search?vid=973RCSIB_INST:RCSIB&lang=en>. Please note that renewals may be limited, so check due dates carefully.,,,,,,,
+How do I cite sources properly in my research papers and assignments?,We have guides available on different citation styles (e.g., Harvard <https://library.rcsi-mub.com/c.php?g=1074924>, Vancouver <https://library.rcsi-mub.com/vancouverreferencing>). You can also book an appointment with our librarians and consult for guidance on citing sources correctly.,,,,,,,
+Are there study spaces and group study rooms available in the library?,Yes, we offer study spaces and group study rooms. Some may require reservations (Book a Study Room <https://lrcroombookings.rcsi-mub.com/>), for more details check our website or inquire at the information desk for availability.,,,,,,,
+How can I get help with research or finding reliable sources for my assignments or projects?,Our librarians are here to help! You can schedule a research consultation with a librarian, visit the link <https://lrcroombookings.rcsi-mub.com/appointments/> and schedule an appointment, or use our online chat service for immediate assistance.,,,,,,,
+Can I access library resources off-campus?,Yes, most of the library’s online resources are accessible from off-campus. Please use the A-Z <https://library.rcsi-mub.com/az.php> and log in with your RCSI credentials for seamless access to full-text databases and journals.,,,,,,,,
+How can I borrow books and other materials from the library?,To borrow books and other materials, you'll need a valid university ID. You can check out books at the information desk. The loan period and renewal options may vary, so ask the library staff for details.,,,,,,,
+What are the library's operating hours?,Library hours vary. Please check <https://lrcroombookings.rcsi-mub.com/hours> or contact the library directly for the latest information.,,,,,,,,,
+How do I access the library's online catalog and databases?,Visit our website and click 'Primo Search <https://rcsibahrain.primo.exlibrisgroup.com/discovery/search?vid=973RCSIB_INST:RCSIB>' or 'E-Resources <https://library.rcsi-mub.com/az.php>' to access them using your university credentials.,,,,,,,,,
+How can I request articles or book chapters not available in our collection?,You can request document delivery using this form <https://creatorapp.zohopublic.com/simonwhitebridge/library-services-document-supply-request/form-perma/Document_Supply_Request/MRxQz6fnW5stRtz30MemP3hJOVC03An10uaZqKsPJEjyDD7FwD5tgGhQEPvPgz4x0yqrbA3XntJKunKGJhx5nzAzmvDFq3EPdErQ>.,,,,,,,,,
+How can I renew my books online?,Visit <https://rcsibahrain.primo.exlibrisgroup.com/discovery/search?vid=973RCSIB_INST:RCSIB>, log in with your RCSI credentials, and navigate to 'My Library Card' > 'Loans' to renew.,,,,,,,
+Who can I do in-text citation for the article with two authors with the same surname in Harvard Referencing?,If two sources have authors with the same surname and the same year, include initials to distinguish them, e.g., (R.F. Jones, 1998) vs (C.B. Jones, 1998).,,,,
+What about 2 articles with the same surname but different years in Harvard Referencing?,Yes, you must include both, e.g., (Smith, 2018) and (Smith, 2020), as they are different sources.,,,
+How can I access UpToDate App?,Sign in to PRIMO > go to A–Z resources > select UpToDate. Register for a personal account to use the app.,,,,,,,,,
+I am unable to access PRIMO.,Please reset your password via ICT. If the issue persists, contact Mr. Asif Altaf at aaltaf@rcsi-mub.com.,,,,,,,,
+Where can I get information about referencing and citing?,Visit the Referencing & Citing Guide <https://library.rcsi-mub.com/c.php?g=714089> for examples in Harvard and Vancouver. Library staff are available to help.,,,,,,,,,
+How do I place a Document Delivery request?,If the article/book is unavailable, use this form <https://creatorapp.zohopublic.com/simonwhitebridge/library-services-document-supply-request/form-perma/Document_Supply_Request/MRxQz6fnW5stRtz30MemP3hJOVC03An10uaZqKsPJEjyDD7FwD5tgGhQEPvPgz4x0yqrbA3XntJKunKGJhx5nzAzmvDFq3EPdErQ> to request it.,,,,,,,,
+How can I download the RCSI Bahrain Harvard referencing style for EndNote?,You can download it from <https://endnote.com/style_download/rcsi-bahrain-son-referencing/>.,,,,,,,,,
+Should I store my EndNote library in cloud storage?,No. Cloud storage like Dropbox or Google Drive may corrupt your library. Store a compressed backup instead. See advice from EndNote Support <https://support.clarivate.com/Endnote/s/article/EndNote-Reference-Manager-ProCite-Compatibility-with-Dropbox-and-other-Cloud-storage?language=en_US>.,,,,,,,,,
+I am unable to access library portal/Primo. It says no user with such credentials.,Ensure your RCSI account is active. Try Chrome or Firefox. If issues persist, contact ICT or Mr. Asif Altaf at aaltaf@rcsi-mub.com.,,,,,,,,
+What are the databases other than BNF for drug information?,You can use UpToDate, DynaMed, 5 Minute Consult, and BMJ Best Practice.,,,,,,
+How can I reserve a book?,Search the book in Primo <https://rcsibahrain.primo.exlibrisgroup.com/discovery/search?vid=973RCSIB_INST:RCSIB>, log in, and click on 'Request'. You may reserve up to 5 books at a time.,,,,,,,
+How can I access UpToDate App?,Visit <https://library.rcsi-mub.com/az/databases>, select UpToDate, register for an account, then download and log in to the app. Re-authenticate every 90 days via the library portal.,,,,,,
+I want to ask regarding reference and citation. If three authors are there, do I write all three surnames or use et al.?,In citations, use the first author’s surname followed by et al. and year. In the reference list, list all three authors’ names.,,,,,,
+Can I meet a librarian?,Yes, book an appointment at <https://lrcroombookings.rcsi-mub.com/appointments/>. Select your librarian and they’ll confirm via email and schedule a Teams meeting.,,,,,,,,
+How do I access ClinicalKey Student and Wiley Online Library?,Register for ClinicalKey Student using your RCSI email. Wiley doesn’t require registration. If full text isn’t available, use Document Delivery <https://bit.ly/3RucAJh>.,,,,,,,,
+How can I get training on using EndNote?,Book an appointment via <https://lrcroombookings.rcsi-mub.com/appointments>. A librarian will guide you one-on-one on using EndNote for referencing and research.,,,,,,,,,
+I am having trouble logging into my library account.,Ensure your credentials are correct. Try a different browser or clear cache. If problems persist, contact Mr. Asif Altaf at aaltaf@rcsi-mub.com for help.,,,,,,,,
+I'm new to the library. What username and password should I use?,Use your university’s VLE credentials. If you have trouble, contact IT or library staff for help accessing your account.,,,,,,,,
+What if I borrowed a book and can't return it on time?,Renew online or email the library to explain. Return books to the desk or use the return box outside. Renew early to avoid fines.,,,,,,,,,
+Can I visit the library to borrow books?,Yes, you can visit and borrow during open hours. You may also reserve via Primo <https://rcsibahrain.primo.exlibrisgroup.com/discovery/search?vid=973RCSIB_INST:RCSIB>. You’ll be notified by email once ready.,,,,,,,,
+How can I reset my password?,If your login fails, clear browser cookies and try again. If it still doesn’t work, contact the library. Provide your name and error details for assistance.,,,,,,,
